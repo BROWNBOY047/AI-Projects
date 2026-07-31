@@ -1,0 +1,1858 @@
+{
+  "metadata": {
+    "source": "ScienceDaily",
+    "total_scraped": 231,
+    "scraped_at": "2026-07-27T01:31:12.427269",
+    "target": 250
+  },
+  "articles": [
+    {
+      "title": "Why losing the wrong fat can trigger diabetes",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015259.htm",
+      "summary": "Scientists discovered that damaged fat cells can become inflamed, lose their ability to store lipids, and eventually vanish, disrupting the body’s metabolism. The findings show that diabetes can result not only from excess fat, but also from losing the healthy fat tissue the body needs.",
+      "date": "2026-07-26T11:43:14",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A hidden Alzheimer’s tipping point may decide who gets dementia",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015257.htm",
+      "summary": "Scientists have identified a possible tipping point that helps determine whether Alzheimer’s-related brain changes lead to dementia. The key may lie in how the brain’s immune cells respond to plaques and tau, offering a promising new target for treatments designed to extend cognitive resilience.",
+      "date": "2026-07-26T10:14:57",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Inside the Backrooms: The internet’s creepiest place is becoming a tourist attraction",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015254.htm",
+      "summary": "The Backrooms began as a single eerie image of empty yellow rooms, but internet users transformed it into a vast fictional world that feels disturbingly real. Through videos, games, maps, survival guides and social media stories, audiences do more than watch the horror unfold. They help build and explore it. Researchers suggest this popularity reflects a new kind of digital tourism, where people emotionally enter imaginary places filled with mystery, nostalgia and unease.",
+      "date": "2026-07-26T08:16:35",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "CRISPR makes prostate cancer vulnerable to immunotherapy",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015250.htm",
+      "summary": "Scientists used CRISPR to make prostate cancer cells easier for the immune system to detect and destroy. The experimental treatment dramatically improved the effects of immunotherapy in mice and may offer hope for other hard-to-treat tumors.",
+      "date": "2026-07-26T12:36:23",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The best way to save giant sequoias may be more fire",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015243.htm",
+      "summary": "Giant sequoias are built to withstand ordinary fires, but recent extreme wildfires killed thousands of trees that had survived for centuries or even millennia. A new analysis of about 26,400 sequoias found that trees in areas treated with prescribed burns were nearly four times more likely to survive. Researchers estimate the controlled fires prevented about 1,900 deaths and could have saved thousands more if used across every grove.",
+      "date": "2026-07-26T13:18:59",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Your AI calorie-tracking app may be off by 345 calories",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015237.htm",
+      "summary": "Popular AI-powered food apps may make calorie counting easier, but they may also leave out a surprisingly large part of the meal. Four apps underestimated calories and fat by about one-third when tested against carefully prepared meals. High-fat ketogenic dishes appeared to cause the most trouble, while carbohydrates were measured more consistently.",
+      "date": "2026-07-26T13:06:15",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Hidden genetic diversity helped inbred brown tree snakes conquer guam",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260726015236.htm",
+      "summary": "A notorious snake invasion that devastated Guam’s native birds may have succeeded because the reptiles carried hidden genetic advantages. Using advanced long-read DNA sequencing, researchers uncovered more than 19,000 large genetic differences in brown tree snakes, many concentrated in genes tied to immunity and smell. This overlooked diversity may have helped a population founded by only a few snakes survive inbreeding, adapt to a new environment, and multiply to extraordinary densities.",
+      "date": "2026-07-26T07:15:38",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists trace the shocking origin of human eyes to an ancient “cyclops”",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260725105554.htm",
+      "summary": "Researchers say a tiny one-eyed ancestor that lived nearly 600 million years ago may have shaped the evolution of every vertebrate eye, including our own. They also found that its ancient median eye lives on today as the pineal gland, which helps synchronize our sleep with daylight.",
+      "date": "2026-07-26T05:10:29",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A daily fiber supplement reduced knee arthritis pain and improved strength",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061448.htm",
+      "summary": "A prebiotic fiber supplement reduced knee osteoarthritis pain while also improving grip strength and pain sensitivity in a six-week trial. The results hint at a fascinating gut-muscle-pain connection and suggest that a simple daily supplement may be easier to maintain than digital physiotherapy.",
+      "date": "2026-07-25T10:01:05",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The Universe can outrun light without breaking Einstein’s rules",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061444.htm",
+      "summary": "Cosmic expansion allows distant galaxies to move away faster than light, while still letting us see ancient light they emitted when they were much closer. Eventually, accelerating expansion will push nearly every galaxy beyond our Local Group out of sight, making the Universe appear almost empty.",
+      "date": "2026-07-25T13:17:03",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Oral GLP-1 drugs may quiet the brain’s food craving circuit",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061439.htm",
+      "summary": "Newer oral drugs related to semaglutide medications such as Ozempic reduced pleasure-driven eating in mice by quieting a deep brain reward circuit. The finding could open new avenues for understanding food cravings and potentially treating substance use disorder.",
+      "date": "2026-07-25T11:34:04",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists put the “recycling is a distraction” claim to the test",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061437.htm",
+      "summary": "Recycling, greener diets, and other personal climate choices do not seem to distract people from supporting major environmental reforms. A four-year study of nearly 2,800 Australians found that these habits neither increased nor reduced later political engagement.",
+      "date": "2026-07-25T14:00:35",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A single dose reversed autism-like symptoms in adult mice within hours",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061436.htm",
+      "summary": "Even mild inflammation during pregnancy led mouse offspring to develop persistent brain overactivity, sensory sensitivity, repetitive behaviors, and increased seizure risk. Remarkably, one dose of rapamycin improved nearly all of these problems within about two hours. The benefits were temporary, but they suggest that adult brain circuits may remain far more adaptable than previously believed.",
+      "date": "2026-07-25T15:09:37",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Venus may be tearing itself apart from within",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061434.htm",
+      "summary": "Scientists have uncovered new evidence that Venus may still be tearing itself apart from within. Advanced 3D simulations indicate that some of the planet's giant rift valleys formed relatively recently and could still be expanding. The results suggest Venus has a far more active interior than researchers once believed, challenging the long-held view of a geologically dormant world.",
+      "date": "2026-07-25T03:19:19",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists discover a compound that could supercharge aging muscle repair",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061432.htm",
+      "summary": "A sulfur-based compound called LASSS appears to protect and supercharge a key protein involved in repairing damaged muscle. The discovery could eventually lead to new ways to slow muscle loss and preserve strength as people age.",
+      "date": "2026-07-24T13:37:50",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A new antiviral could stop measles before an outbreak takes off",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260724061431.htm",
+      "summary": "An experimental pill prevented a measles-like virus from spreading through the air or through close contact in ferrets. It worked when given shortly before or after exposure and also shortened illness and the period when infected animals remained contagious. Researchers say the drug could one day complement vaccination and make outbreaks easier to contain.",
+      "date": "2026-07-24T13:27:10",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "APOE2 may protect the brain from Alzheimer’s and aging",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
+      "summary": "The longevity-linked APOE2 gene appears to protect brain cells by reducing DNA damage and helping neurons recover from stress. The finding could open a new path toward treatments that mimic APOE2’s defenses in people at higher genetic risk for Alzheimer’s.",
+      "date": "2026-07-24T06:00:15",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The billion-dollar problem keeping Ozempic, Wegovy, and Zepbound from patients",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084854.htm",
+      "summary": "Ozempic, Wegovy, and similar drugs may deliver excellent health value, but covering them for millions of eligible patients could overwhelm insurance budgets. Researchers say better long-term support is needed and warn that low-cost compounded versions may carry serious safety risks.",
+      "date": "2026-07-24T11:29:04",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Ancient ape fossil in Egypt challenges the story of human origins",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
+      "summary": "A newly identified fossil ape from northern Egypt is reshaping ideas about where the ancestors of modern apes first emerged. Analyses place it closer to living apes than any known East African species of the same age, pointing to North Africa and the Middle East as a possible birthplace and crossroads for the ape lineage that eventually produced gibbons, orangutans, gorillas, chimpanzees, and humans.",
+      "date": "2026-07-24T07:03:54",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Sweden’s hidden rare earth deposits could help break China’s grip",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084055.htm",
+      "summary": "Sweden could become an important source of rare earth elements needed for magnets and green technologies. Instead of extracting one target metal, researchers are cataloging everything contained in Swedish mineral deposits. They will then develop magnets using those naturally available combinations, potentially reducing pollution, waste, and reliance on China.",
+      "date": "2026-07-24T08:30:52",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "China’s Tianwen-1 captures interstellar comet 3I/ATLAS near Mars",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084052.htm",
+      "summary": "China’s Tianwen-1 orbiter captured a faint but remarkable view of 3I/ATLAS as the interstellar comet raced past Mars. The images reveal its tail and glowing coma, offering scientists a glimpse of material born beyond our solar system.",
+      "date": "2026-07-24T07:47:42",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists discover the Sun contains 55% more silver than expected",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084049.htm",
+      "summary": "A new analysis suggests the Sun holds far more silver than earlier estimates indicated. More advanced models of the solar atmosphere raised the calculated amount by 55 percent, bringing it into much closer agreement with ancient meteorites. The technique may also help scientists track the cosmic origins of silver and other heavy elements.",
+      "date": "2026-07-25T01:55:27",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Ozempic and Mounjaro linked to a surprising hair loss risk",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084047.htm",
+      "summary": "A large study suggests that GLP-1 drugs including Ozempic and Mounjaro may slightly increase the risk of hair loss in people with type 2 diabetes. Compared with two other common classes of diabetes medications, GLP-1 users had a significantly higher rate of alopecia, though the absolute risk was still low. The hair loss was mainly non-scarring, which means it may be reversible.",
+      "date": "2026-07-24T03:31:13",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Superagers keep youthful memories but their DNA does not explain why",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084045.htm",
+      "summary": "Scientists expected SuperAgers might simply inherit fewer Alzheimer’s-related risks, but their genes looked much like those of typical older adults. Their extraordinary memories may instead come from still-unknown protective forces involving the brain, body, lifestyle, and environment.",
+      "date": "2026-07-25T14:41:54",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Orcas filmed smashing giant sunfish into thousands of pieces",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260723084040.htm",
+      "summary": "Researchers in the Gulf of California have documented a dramatic orca behavior never described before. In two separate encounters, one orca gripped a dead sunfish by the fin while another charged into it at high speed, blasting the carcass into thousands of pieces.",
+      "date": "2026-07-23T13:55:59",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A strange quantum effect dramatically boosts energy transfer",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032130.htm",
+      "summary": "Researchers discovered a proton-assisted mechanism that greatly improves how triplet energy moves between quantum dots and nearby molecules. The proton briefly shifts position, helps coordinate electron movement, and then returns to where it started. This quantum-driven shuttle could offer a powerful new way to tune solar cells, lasers, and catalytic reactions.",
+      "date": "2026-07-22T12:17:00",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "MIT’s new lidar chip could give self-driving cars a wider view",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032127.htm",
+      "summary": "MIT engineers have found a way to give chip-based lidar a wider, clearer view without relying on moving parts. Their design uses differently shaped antennas that can sit close together without scrambling one another’s signals. In tests, the system sharply reduced interference while steering a single precise beam across a broad field of view.",
+      "date": "2026-07-22T10:00:54",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Antarctica may give the world decades to prepare for rising seas",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032123.htm",
+      "summary": "Scientists may be able to reliably forecast Antarctic ice loss through the middle of this century, offering governments a vital head start on sea level rise. After that, unstable ice retreat could accelerate dramatically, making the future much harder to predict.",
+      "date": "2026-07-23T10:26:35",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Popular childhood drinks may raise blood pressure decades later",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032121.htm",
+      "summary": "A 25-year study found that frequent consumption of soda, sports drinks, and fruit juice beginning in childhood was linked to a higher risk of high blood pressure in adulthood. Swapping one daily drink for whole fruit, milk, or water could significantly reduce that risk.",
+      "date": "2026-07-23T12:34:58",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "New giant salamander species discovered in 3.5-million-year-old fossils",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032119.htm",
+      "summary": "Fossils discovered in Japan more than two decades ago have finally been identified as a new genus and species of giant salamander. Limnospondylus ajimuensis lived around 3.5 million years ago in a warmer, wetter Kyushu and may have reached 1.1 meters in length. Its discovery hints that many more unknown giant salamanders could be hiding among fossils previously given the wrong classification.",
+      "date": "2026-07-24T01:58:41",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists discover the hidden brain switch that assigns bees their jobs",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032117.htm",
+      "summary": "Researchers found that specific brain circuits help decide which jobs bees perform as they age. When those circuits were switched off, older worker bees began caring for the queen again instead of carrying out their normal later-life duties. The findings reveal that a bee colony’s complex division of labor may be guided by neural switches hidden inside each bee’s brain.",
+      "date": "2026-07-23T01:10:39",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "NASA will test SpaceX and Blue Origin Moon landers before the next lunar landing",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032113.htm",
+      "summary": "NASA is preparing for future astronaut landings on the Moon with an unusually ambitious orbital rehearsal. During Artemis III in 2027, Orion astronauts will rendezvous and dock separately with prototype lunar landers from Blue Origin and SpaceX, allowing crews and ground teams to test the complex maneuvers needed for later missions.",
+      "date": "2026-07-23T06:14:00",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "NASA’s Webb telescope discovers giant planet hiding in one of astronomy’s most famous systems",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032111.htm",
+      "summary": "A giant planet had been hiding inside one of astronomy’s most closely studied planetary systems, concealed by a bright disk of cosmic dust. Webb revealed Beta Pictoris d through atmospheric traces of carbon monoxide, water vapor, and methane, showcasing a promising new method for finding elusive exoplanets.",
+      "date": "2026-07-23T05:58:04",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists revive a powerful antibiotic that superbugs had defeated",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032108.htm",
+      "summary": "Scientists have found a way to revive vancomycin, a powerful antibiotic that some dangerous bacteria have learned to resist. Instead of creating an entirely new drug, researchers paired vancomycin with a small molecule called pghi-4, which blocks a bacterial enzyme linked to resistance. The combination restored the antibiotic’s ability to kill drug-resistant E. faecium, raising hopes that similar chemical helpers could rescue other failing medicines.",
+      "date": "2026-07-22T07:21:08",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Ancient ferns turned Triassic Europe into a wildfire inferno",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260722032105.htm",
+      "summary": "Ancient fern savannahs may have transformed parts of Europe into a wildfire-prone inferno during the end-Triassic mass extinction. New fossil evidence suggests the ferns repeatedly regrew after fires, creating fresh fuel that helped prolong the devastation.",
+      "date": "2026-07-22T13:10:01",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists found mystery bacteria inside one of the ocean’s most elusive whales",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000847.htm",
+      "summary": "Scientists studying decades of pygmy sperm whale strandings have uncovered three previously unknown types of Helicobacter bacteria hiding in the animals’ stomachs. All four infected whales showed serious digestive damage, including inflammation, ulcers, scarring, and parasite infestations, although the bacteria were not confirmed as the cause of death.",
+      "date": "2026-07-21T05:10:08",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Natural compound may fight rheumatoid arthritis at its source",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000845.htm",
+      "summary": "A plant-derived compound reduced swelling, inflammation, and joint damage in rats with rheumatoid arthritis. It also helped rebalance immune activity and improve the way certain fats were processed in the body. Researchers say the findings could lead to a new approach for treating the disease.",
+      "date": "2026-07-23T01:57:05",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Lab-grown mini brains may predict which Alzheimer’s treatments will work",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000844.htm",
+      "summary": "Miniature brain models grown from patients’ cells revealed striking differences in how Alzheimer’s-related tissue responds to an antidepressant. The organoids and the particles they release could eventually guide more personalized treatments and provide new clues for diagnosing the disease.",
+      "date": "2026-07-22T12:34:25",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Colorectal cancer warning signs younger adults should never ignore",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000839.htm",
+      "summary": "Colorectal cancer is now the leading cause of cancer death among people under 50, and cases in younger adults continue to rise. Warning signs can include persistent bowel changes, recurring rectal bleeding, dark or narrow stools, unexplained weight loss, and fatigue. These symptoms often have harmless causes, but they should not be dismissed, especially when they are new or ongoing. Early detection can greatly improve treatment outcomes.",
+      "date": "2026-07-22T12:47:24",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Ancient DNA reveals a chilling secret at China’s 4,000-year-old Shimao city",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000828.htm",
+      "summary": "Ancient DNA from China’s vast 4,000-year-old Shimao settlement is revealing how one of East Asia’s earliest complex societies was organized. Researchers found that its people were largely descended from local Yellow River farming communities, but also had genetic ties to distant southern and steppe populations, pointing to extensive prehistoric contact.",
+      "date": "2026-07-21T08:59:24",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Astronomers find the first atmosphere on a rocky world in the habitable zone",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
+      "summary": "Astronomers have found the first confirmed atmosphere around a rocky planet in another star’s habitable zone. The planet, LHS 1140 b, revealed its atmosphere through helium slowly leaking into space. Located 48 light-years away, the world may have preserved its atmosphere for billions of years, making it a promising target in the search for potentially habitable planets.",
+      "date": "2026-07-21T10:57:41",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Watching too much TV in midlife may shrink the brain",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000822.htm",
+      "summary": "Watching television very often in midlife may be linked to troubling brain changes decades later. In a study of about 1,700 adults, frequent TV viewers later showed smaller brain regions involved in memory, decision-making, and visual processing, along with more signs of damage in the brain’s white matter. Surprisingly, sitting itself did not appear to be the main issue, since people who spent long hours seated at mentally engaging jobs often showed healthier brain patterns.",
+      "date": "2026-07-21T13:29:24",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Coffee may protect your heart but energy drinks could harm it",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000820.htm",
+      "summary": "For most adults, a daily caffeine habit may be safer for the heart than many people assume. A new American Heart Association review found that up to 400 milligrams of caffeine a day, roughly three to five cups of regular black coffee, is generally safe and may even be linked to lower risks of heart disease, stroke, heart failure, and Type 2 diabetes. But the source matters: highly concentrated energy drinks and shots can sharply raise blood pressure and trigger irregular heart rhythms.",
+      "date": "2026-07-22T01:30:30",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A hidden “switch-off” signal could predict solar storms seven years early",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000818.htm",
+      "summary": "A newly discovered turning point in the Sun’s 11-year cycle could allow scientists to predict future solar activity years earlier than before. At this “switch-off” point, the most violent space weather abruptly ends, and the remaining number of sunspots offers clues about the next cycle’s strength. Early projections suggest Solar Cycle 26 may be moderate, but a clearer forecast is expected in about two years.",
+      "date": "2026-07-21T08:08:25",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "New molecular map reveals how the flu virus hijacks human cells",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260721000816.htm",
+      "summary": "Scientists uncovered how influenza A commandeers human cells, including a surprising strategy that dissolves tiny structures in the nucleus and releases proteins the virus may use to reproduce. The detailed molecular map could reveal new drug targets and help researchers study dangerous flu strains such as H5N1.",
+      "date": "2026-07-21T04:59:11",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Some dinosaurs could rise like giants until they grew too big",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719231758.htm",
+      "summary": "Two elephant-sized South American sauropods were unusually well built for standing on their hind legs. Digital tests showed that their robust femurs handled the enormous forces better than those of larger species, especially while the dinosaurs were young. The upright pose may have helped them reach treetops, frighten predators, or impress potential mates.",
+      "date": "2026-07-20T13:23:44",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Ancient mystery on K’gari as world’s largest sand island lakes dried up during rainy era",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719231654.htm",
+      "summary": "Ancient sediment reveals that some of K’gari’s deepest lakes vanished around 7,500 years ago, despite unusually heavy rainfall. The surprising discovery suggests changing winds and future climate shifts could threaten the sacred lakes known as the Eyes of K’gari.",
+      "date": "2026-07-21T12:55:59",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "AI helps Stanford scientists discover “natural Ozempic” without the usual side effects",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719230608.htm",
+      "summary": "Stanford Medicine researchers have discovered a naturally occurring molecule that may suppress appetite and reduce body weight much like Ozempic, but without several of its common side effects. The molecule, called BRP, acts on a more targeted region of the brain involved in hunger and metabolism rather than affecting tissues throughout the body.",
+      "date": "2026-07-24T13:44:43",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Magic mushrooms may reshape the brain long after the trip ends",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719040005.htm",
+      "summary": "A single dose of psilocybin produced measurable changes in brain activity and possible changes in brain structure that lasted for up to a month. Participants who experienced the greatest increase in flexible, varied brain activity also reported more personal insight and later improvements in well-being. The findings suggest that the psychedelic experience itself may help people break free from entrenched patterns of thinking.",
+      "date": "2026-07-22T04:12:46",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The mysterious hum heard around the world may finally have an explanation",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719040002.htm",
+      "summary": "The mysterious sound known as The Hum has been reported worldwide for decades, yet its source often remains impossible to find. Researchers tested whether people who hear it have exceptional low-frequency hearing or measurable sounds produced inside their ears, but neither explanation fit most participants. The strongest possibility is that many cases involve low-frequency tinnitus, even though the sound seems completely external.",
+      "date": "2026-07-19T12:07:13",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "An ordinary laptop solved a problem thought to require a quantum computer",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719040000.htm",
+      "summary": "A quantum problem once described as impossible for classical computers has now been solved using relatively modest hardware. Researchers used tensor networks to compress the overwhelming wave function created by hundreds of entangled qubits, allowing some calculations to run on a laptop. Their results matched both theoretical predictions and simulations performed with a quantum computer. The method could open new paths for exploring quantum dynamics and materials.",
+      "date": "2026-07-20T07:40:09",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Coffee may help shield the liver from fat, scarring, and cancer",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719035955.htm",
+      "summary": "A major long-term study linked coffee consumption with lower risks of cirrhosis, liver cancer, and death from liver disease. Coffee drinkers also showed healthier liver scans and blood protein patterns, with less fat, inflammation, and scarring. Benefits appeared even at one or two cups daily and were strongest around three to four cups.",
+      "date": "2026-07-25T12:26:47",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "This food compound may help vaccines work better in older adults",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719035951.htm",
+      "summary": "A naturally occurring compound found in foods such as wheat germ, mushrooms, and aged cheese may help older adults build stronger protection after vaccination. In a small pilot trial, researchers gave spermidine supplements to adults over 65 following their third COVID-19 vaccine dose. The biggest improvements appeared among people whose immune systems initially responded poorly, with higher antibody levels and stronger activity against several variants.",
+      "date": "2026-07-21T03:51:43",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "New quantum gravity theory links entropy, dark energy, and life",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719035947.htm",
+      "summary": "A new theoretical study offers a possible explanation for how the Universe can grow more complex without violating the second law of thermodynamics. Using a quantum gravity framework called Gravity from Entropy, mathematician Ginestra Bianconi found that the Universe’s total entropy may rise as space expands, even while entropy within each unit of volume falls. That decline could leave room for galaxies, stars, planets, and life to form locally amid an overall increase in cosmic entropy.",
+      "date": "2026-07-21T02:40:55",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Dying Sun-like stars may kick themselves through space",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719035942.htm",
+      "summary": "Dying Sun-like stars may not fade away quietly. As blobs of gas erupt unevenly from their swollen surfaces, each burst gives the star a tiny push in the opposite direction. Thousands of these random kicks could eventually break apart distant stellar pairs or, in rare cases, drive two stars into a violent collision.",
+      "date": "2026-07-21T03:36:16",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Earth’s waters are quietly running out of oxygen, scientists warn",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719035939.htm",
+      "summary": "Oxygen is disappearing from oceans, lakes, rivers, and coastal waters at an alarming rate, threatening aquatic life and weakening the natural processes that help regulate Earth’s climate. Scientists warn that this widespread deoxygenation is closely connected to other major planetary threats, including warming, pollution, biodiversity loss, and ocean acidification.",
+      "date": "2026-07-20T12:29:38",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Alzheimer’s breakthrough: Scientists restore two hours of sleep without clearing brain plaques",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719035931.htm",
+      "summary": "Researchers have uncovered a surprising culprit behind sleep loss in Alzheimer’s disease: the brain’s own immune cells. In mice with amyloid plaques, overactive microglia triggered inflammation that kept the brain from getting enough deep, restorative sleep. Temporarily removing most of these cells restored more than two hours of sleep per day, even though the plaques remained unchanged.",
+      "date": "2026-07-20T10:05:34",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Coffee may help the body fight stress and aging through a hidden cellular switch",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
+      "summary": "Scientists may have uncovered one reason coffee is repeatedly associated with healthier aging and lower disease risk. Compounds in coffee appear to activate NR4A1, a receptor that helps protect cells from stress, inflammation, and damage. These protective effects disappeared when the receptor was removed, strengthening the connection. Surprisingly, plant-based compounds such as caffeic acid seemed far more active than caffeine itself.",
+      "date": "2026-07-19T09:19:13",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "UCLA scientists develop mineral sunscreen without the chalky white cast",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010200.htm",
+      "summary": "Scientists have redesigned zinc oxide particles to create a mineral sunscreen that protects against ultraviolet radiation without leaving such a noticeable white cast. The SPF 30 formula could make sunscreen easier and more appealing to use across a wider range of skin tones.",
+      "date": "2026-07-20T03:32:12",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Common antidepressant may ease long COVID’s crushing fatigue",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010158.htm",
+      "summary": "A low-cost antidepressant may offer new hope for people struggling with long COVID fatigue. In a randomized clinical trial involving 399 adults, fluvoxamine significantly reduced fatigue and improved quality of life compared with a placebo, making it one of the first medications to show meaningful benefits for this disabling condition.",
+      "date": "2026-07-19T01:55:33",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A tiny universe in a bottle reveals clues to the origins of life",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010156.htm",
+      "summary": "Researchers have created cosmic dust from scratch by recreating space-like conditions inside glass tubes. The dust contains complex carbon-rich molecules built from elements essential to life and produces infrared signals similar to real material found in space. By studying these laboratory samples, scientists can explore how organic chemistry unfolds around stars and how comets, asteroids and meteorites may have carried those ingredients to Earth.",
+      "date": "2026-07-19T13:10:21",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists found two powerful new ways to destroy forever chemicals",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010147.htm",
+      "summary": "Scientists are testing two promising ways to destroy PFAS, the stubborn “forever chemicals” that can accumulate in water and resist normal treatment. One method uses collapsing vapor bubbles to generate extreme heat and reactive molecules, while the other uses cold plasma and rising gas bubbles to pull PFAS to the surface and break them apart.",
+      "date": "2026-07-20T02:31:21",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "China’s Chang’e-6 reveals why solar wind hits the Moon’s two sides differently",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010145.htm",
+      "summary": "China’s Chang’e-6 samples have uncovered a surprising difference between the Moon’s two hemispheres. Solar wind particles penetrated deeper into the far-side soil because Earth’s magnetosphere slows the particles that reach the near side. Noble gases locked inside the lunar regolith preserved evidence of this uneven bombardment. These gases may even help scientists reconstruct the ancient history of Earth’s magnetic shield.",
+      "date": "2026-07-21T12:39:35",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists identify the rare meteorite that killed the dinosaurs 66 million years ago",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010142.htm",
+      "summary": "The asteroid that wiped out the dinosaurs was likely an exceptionally rare CO chondrite from a distant region of the solar system. Its unusual chemistry suggests that planet-cooling dust and debris, rather than sulfur inside the asteroid, may have delivered the deadliest blow.",
+      "date": "2026-07-19T04:22:00",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Your fingers may hold a secret of human brain evolution",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260717033350.htm",
+      "summary": "A study of 225 newborns suggests prenatal estrogen may have played a role in the evolution of larger human brains. Boys with finger-length patterns linked to higher estrogen exposure before birth tended to have larger head circumferences, which are strongly associated with brain size. The same connection was not seen in girls.",
+      "date": "2026-07-17T12:02:39",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Popular sugar substitutes linked to faster brain aging",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
+      "summary": "Several popular sugar substitutes may not be as harmless as they seem. Adults who consumed the most artificial sweeteners showed substantially faster declines in memory and thinking, especially if they were under 60 or had diabetes. The highest intake was linked to cognitive aging roughly 1.6 years faster than the lowest intake. Researchers stressed that more studies are needed before concluding that sweeteners are the cause.",
+      "date": "2026-07-18T13:55:57",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Earth’s biggest volcanic event transformed an entire oceanic plate",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023618.htm",
+      "summary": "Seismic waves have revealed that the oceanic plate beneath the Ontong Java Plateau was dramatically transformed by the colossal volcanic activity that created it more than 100 million years ago. Researchers found a complex structure of horizontal layers cut through by vast swarms of vertical magma channels, along with unusually slow seismic waves suggesting that deep-rising magma chemically altered the plate itself.",
+      "date": "2026-07-18T12:36:03",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists built a camera that can track invisible particles in 3D",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+      "summary": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, and AI, it reconstructs particle paths in fast, detailed 3D. Simulations suggest it could match or surpass today’s best detectors while being far easier to scale. The technology may also lead to sharper PET medical scans.",
+      "date": "2026-07-17T06:04:57",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "New cancer strategy could stop tumors before resistance takes hold",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023607.htm",
+      "summary": "Researchers are applying evolutionary theory to cancer by changing treatments before tumors have time to develop resistance. Mathematical models suggest that rapid, carefully timed switches between multiple therapies could improve cure rates.",
+      "date": "2026-07-22T05:41:04",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "NASA’s James Webb catches a supermassive black hole feeding",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023601.htm",
+      "summary": "JWST has captured unusually detailed images of gas feeding the supermassive black hole at the center of NGC 4696. A vast filament appears to funnel material into an 800-light-year-wide spinning disk, where gas races around at up to 600 kilometers per second. The findings suggest black holes may recycle their own fuel by heating gas with jets and later drawing the cooled material back in.",
+      "date": "2026-07-18T03:09:35",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A shattered asteroid may have bombarded Earth 800 million years ago",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023559.htm",
+      "summary": "A catastrophic asteroid breakup may have triggered a huge wave of impacts across the inner solar system about 800 million years ago. The debris was launched from near a gravitational gateway controlled by Jupiter, sending fragments toward Earth, the Moon, and Mars. The bombardment may explain ancient lunar craters and could have contributed to major climate and biological changes on Earth.",
+      "date": "2026-07-18T13:00:33",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A healthier global diet could cut farm emissions by 85%",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023557.htm",
+      "summary": "A global shift toward healthier diets could sharply reduce livestock farming, free up agricultural land, and cut emissions from land-use change by 85% by 2050. At the same time, fruit, vegetable, nut, and legume production could soar, creating a sweeping transformation of what the world grows and eats.",
+      "date": "2026-07-23T13:45:27",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Koalas nearly went extinct before humans arrived, DNA study reveals",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083551.htm",
+      "summary": "A major DNA study has rewritten the koala's evolutionary story, revealing that the species suffered a dramatic population collapse about 100,000 years ago, long before humans arrived in Australia. By calculating the koala's mutation rate for the first time and analyzing hundreds of genomes, researchers discovered that every living koala traces back to a small group that survived extreme climate shifts and later repopulated eastern Australia.",
+      "date": "2026-07-17T09:51:10",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists just discovered a lost branch of Australia’s marsupials",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083546.htm",
+      "summary": "Fossils from Queensland suggest a newly recognized marsupial order may have survived in Australia for around 35 million years, rewriting part of the story of how the continent's unique mammals evolved. The discovery challenges the idea that Australia's marsupials all came from a single straightforward ancestral lineage.",
+      "date": "2026-07-19T05:53:59",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "This sugar-coated therapy boosted survival against deadly brain cancer by 50% in mice",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083542.htm",
+      "summary": "A new experimental treatment may have found a way to outsmart glioblastoma’s toughest defense: the blood-brain barrier. Researchers used sugar-coated nanoparticles to ferry genetic instructions that restore a key tumor-suppressing protein directly into brain cancer cells. In mouse studies, the therapy increased median survival by 50% while shrinking tumors without noticeable damage to other organs.",
+      "date": "2026-07-17T01:51:52",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Sun-like star caught after eating one of its own planets",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083538.htm",
+      "summary": "A distant Sun-like star appears to have devoured one of its planets, leaving behind a surprising chemical fingerprint. Researchers found an unusually high concentration of lithium, a strong sign that planetary material was mixed into the star. Careful comparisons with dozens of similar stars confirmed the signal is highly unusual, and scientists think a massive brown dwarf companion may have helped send the planet on its fatal plunge.",
+      "date": "2026-07-16T10:52:02",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "“Silly sprinklers” help scientists finally solve Feynman’s famous sprinkler mystery",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083535.htm",
+      "summary": "A team of mathematicians used whimsical \"silly sprinklers\" to solve a physics mystery that has puzzled scientists for decades. Their experiments showed that the rotation of both normal and reverse sprinklers is driven by the momentum of flowing water, not by the outside water flow or other long-standing theories. The results finally provide a clear answer to Feynman’s famous sprinkler problem. They could also help engineers design more efficient fluid-powered machines.",
+      "date": "2026-07-17T13:58:52",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Quantum breakthrough links light and magnetism in atomically thin materials",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083523.htm",
+      "summary": "A new review highlights exciting progress in atomically thin quantum materials where light and magnetism work together in ways never before possible. In these materials, light-generated excitons can interact directly with magnetic behavior, creating opportunities to control magnetic states using light alone. Scientists believe this could pave the way for advanced optical memory, quantum devices, and ultra-efficient photonic technologies.",
+      "date": "2026-07-16T04:16:48",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Are humans really the ultimate super-predator?",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260714225540.htm",
+      "summary": "Humans are often described as the planet's ultimate \"super-predator,\" but wild animals do not fear every human the same way. After analyzing three decades of research, scientists found that animals become much more alert and spend less time feeding when people pose a real threat, such as hunters or fishers. In contrast, tourists, researchers, and other non-lethal humans trigger far weaker and less predictable reactions.",
+      "date": "2026-07-15T11:04:02",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "AI flags more than 250,000 suspicious cancer research papers",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260714225538.htm",
+      "summary": "A powerful new AI tool has uncovered what could be one of the biggest integrity problems in modern science. After analyzing 2.6 million cancer research papers published between 1999 and 2024, researchers identified more than 250,000 studies with writing patterns resembling papers suspected of being produced by fraudulent \"paper mills.\"",
+      "date": "2026-07-16T08:25:19",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Terraforming Mars may be more realistic than scientists once thought",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260714225535.htm",
+      "summary": "Scientists say new technologies have reopened the debate over whether Mars could someday be terraformed, turning a once impossible idea into a serious research topic. Before anyone tries to reshape the Red Planet, though, researchers say we must understand the risks, including what might be lost if Mars already harbors its own forms of life.",
+      "date": "2026-07-17T14:14:44",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Tiny plastics in drinking water may be making dangerous bacteria stronger",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260714225532.htm",
+      "summary": "Tiny plastic particles in drinking water may be doing more than contaminating the environment. New research suggests nanoplastics can actually help harmful bacteria survive by strengthening the slimy biofilms they form inside water systems. These tougher biofilms become more resistant to disinfectants, making them harder to remove and potentially increasing public health risks.",
+      "date": "2026-07-17T13:14:10",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Intermittent fasting helped people keep weight off for a year",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010154.htm",
+      "summary": "A 12-week intermittent fasting program produced weight-loss benefits that were still visible a year later. Participants who ate within an eight-hour window maintained more weight loss than those who followed their usual longer eating schedule. Both early and late eating windows worked, while early fasting appeared especially helpful for preserving fat loss.",
+      "date": "2026-07-18T11:59:33",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "New antibody drug stops aggressive prostate cancer from spreading",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010151.htm",
+      "summary": "Scientists have developed a fully human antibody that halted the growth and spread of aggressive prostate cancer in preclinical research. Although more testing is needed, the drug’s unusual mechanism could open the door to a safer new treatment for advanced cancer.",
+      "date": "2026-07-21T02:23:59",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists discover a protein that protects the brain from Alzheimer’s damage",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010140.htm",
+      "summary": "A protein called SORLA may act as a powerful defense against the toxic tau tangles involved in Alzheimer’s disease. Mice with extra SORLA had less tau accumulation, less brain atrophy, and healthier connections between neurons, while mice without it experienced more severe damage. The findings also revealed a possible drug target that could help control harmful activity in supporting brain cells.",
+      "date": "2026-07-20T05:28:48",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Goodbye, cavities? New gel could regrow tooth enamel",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260717033046.htm",
+      "summary": "Researchers have developed a fluoride-free gel that could help rebuild damaged tooth enamel, something the body cannot naturally replace once it is lost. Inspired by the proteins that guide enamel formation in infancy, the gel fills microscopic cracks and draws calcium and phosphate from saliva to grow a new mineral layer that closely matches healthy enamel.",
+      "date": "2026-07-23T04:18:37",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Mediterranean diet may activate tiny proteins that protect the heart and brain",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023605.htm",
+      "summary": "The Mediterranean diet may influence aging through tiny proteins produced inside the cell’s mitochondria. Older adults who followed the diet most closely had higher levels of humanin and SHMOOSE, which have been linked to heart and brain protection. Olive oil, fish, legumes, and fewer refined carbohydrates appeared especially important. The findings could eventually help scientists develop more personalized nutrition plans for healthy aging.",
+      "date": "2026-07-18T02:24:14",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists detect hidden skin damage before it becomes visible",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023554.htm",
+      "summary": "Scientists have discovered a hidden warning sign of skin damage that appears before collagen fibers visibly thin, break, or lose their connections. Using advanced light-based techniques, the team found that collagen’s carefully organized molecular “handedness” can collapse even while the tissue still appears structurally intact and contains the same amount of collagen. This suggests that skin may begin deteriorating at a much deeper level long before conventional imaging can detect a problem.",
+      "date": "2026-07-20T13:38:56",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists tested 39 sweeteners and found unexpected gut effects",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023552.htm",
+      "summary": "A large laboratory study found that many commonly used sweeteners can directly change the growth of gut bacteria. Researchers identified more than 100 cases in which sweeteners behaved differently when combined with medications, caffeine, or flavorings. The combination of isosteviol and the antidepressant duloxetine was especially disruptive, reducing beneficial bacteria and overall microbial diversity.",
+      "date": "2026-07-17T08:59:35",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Major genetic breakthrough reveals hidden causes of severe morning sickness in pregnancy",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083554.htm",
+      "summary": "A massive genetic study has identified nine new genes linked to hyperemesis gravidarum, the most severe form of pregnancy sickness, bringing the total number of known risk genes to ten. The discoveries provide fresh insight into why some women experience debilitating nausea and vomiting during pregnancy while others do not. Several of the newly identified genes are involved in appetite, nausea, metabolism, and brain function, opening the door to more targeted treatments.",
+      "date": "2026-07-24T03:12:17",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "More than 400 sick as CDC searches for the source of a mystery outbreak",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083530.htm",
+      "summary": "A growing Cyclospora outbreak has sickened more than 400 people in four states, and investigators are still searching for the contaminated food responsible. The CDC warns the actual number of cases is likely much higher and urges anyone with symptoms to seek medical care.",
+      "date": "2026-07-16T04:25:05",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The hidden skeleton “gatekeeper” inside brain cells could help fight Alzheimer's",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260714225542.htm",
+      "summary": "Researchers have discovered that a microscopic skeleton inside neurons does much more than hold cells together. It acts as a gatekeeper that controls what brain cells absorb and when they absorb it. When this protective structure weakens, neurons rapidly take in harmful proteins associated with Alzheimer's disease, suggesting that stabilizing it could become a promising new strategy for preventing brain cell damage.",
+      "date": "2026-07-15T14:37:59",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Going to museums, movies, and theater may help your body stay younger",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260714225526.htm",
+      "summary": "Going to the cinema, visiting museums, or attending concerts may do more than entertain. Researchers found that older adults who regularly participated in cultural activities tended to have bodies that functioned like those of people about three years younger. They believe stronger social ties, better mental health, and healthier habits could help explain the link, although more research is needed to determine whether cultural activities directly slow aging.",
+      "date": "2026-07-15T04:45:47",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "This pet gecko could help scientists unlock the secrets of cancer",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260714225525.htm",
+      "summary": "An unusual leopard gecko that naturally develops aggressive tumors may become an important new model for cancer research. Scientists found its tumors share key genetic changes with human cancers, offering a rare opportunity to study the disease as it develops naturally.",
+      "date": "2026-07-15T02:55:25",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists finally solved why some frogs survive a deadly fungus",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260714225523.htm",
+      "summary": "A deadly fungus has wiped out amphibian populations around the globe, yet some mysteriously recover. Researchers discovered that survivors develop powerful immune defenses while they are still tadpoles, giving them a head start before the fungus can attack after metamorphosis. The study also uncovered a vast collection of previously unknown antimicrobial peptides that could someday inspire new drugs to fight infections.",
+      "date": "2026-07-15T03:39:03",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Eating chili peppers may raise the risk of one deadly cancer",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084921.htm",
+      "summary": "A major review found that people who consumed the most chili peppers had a substantially higher risk of esophageal cancer, though the evidence was less clear for stomach and colorectal cancers. Researchers emphasize that the findings show an association, not proof of cause and effect, and that more research is needed to determine whether moderate consumption carries similar risks.",
+      "date": "2026-07-14T13:27:21",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists finally solved how a common gut bacterium triggers colon cancer",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084910.htm",
+      "summary": "Researchers solved a long-standing mystery behind how a bacterial toxin associated with colorectal cancer damages the colon. The toxin first binds to a receptor called claudin-4, giving it access to attack the cells' protective barrier. After identifying this weak point, the team designed a decoy protein that successfully blocked the toxin in mice. The discovery could pave the way for new therapies to prevent inflammation and colon tumors.",
+      "date": "2026-07-16T05:37:21",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Popular weight-loss drugs Ozempic and Wegovy may slow biological aging",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084907.htm",
+      "summary": "Researchers found that semaglutide, the active ingredient in Ozempic and Wegovy, slowed biological aging markers in adults with HIV, marking the first clinical evidence that the drug may influence human aging. Although the findings are encouraging, scientists say larger studies are needed before concluding that the medication can help people age more slowly.",
+      "date": "2026-07-14T09:47:41",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Chewing bubble gum after beetroot may help lower blood pressure",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084904.htm",
+      "summary": "A new study found that chewing sugary gum after eating nitrate-rich vegetables or drinking beetroot juice helped the body produce more beneficial nitrite, leading to a temporary drop in blood pressure. Researchers hope the discovery will lead to healthier ways to enhance the cardiovascular and performance benefits of dietary nitrate without relying on sugar.",
+      "date": "2026-07-15T00:24:05",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Yale scientists found a hidden network inside the eye",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000804.htm",
+      "summary": "Researchers have discovered that the retina uses an unexpected communication network that lets separate visual pathways cooperate instead of working alone. A newly identified \"commander\" cell appears to coordinate this system, helping the eye detect faint details that might otherwise be missed.",
+      "date": "2026-07-14T01:15:50",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Losing just 80 minutes of sleep a night could make you gain weight",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000800.htm",
+      "summary": "Sleeping about an hour and 20 minutes less each night for six weeks caused participants to gain weight and spend more time inactive. Researchers found that even mild, realistic sleep loss, similar to what many adults experience, had measurable effects. They warn that if this pattern continues over months or years, the health consequences could become much more significant, including a higher risk of diabetes and heart disease.",
+      "date": "2026-07-13T13:24:13",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Where you live could shape your dementia risk, massive study finds",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000753.htm",
+      "summary": "Researchers analyzing data from more than 214,000 people found that dementia risk factors differ widely across countries, challenging the idea of a one-size-fits-all prevention strategy. At the same time, they uncovered surprisingly consistent patterns that could help shape smarter, more targeted public health efforts.",
+      "date": "2026-07-13T04:07:53",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists discover a hidden heart valve risk linked to gum disease",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000751.htm",
+      "summary": "Researchers found that bacteria linked to gum disease may help drive the development of calcific aortic valve stenosis by triggering inflammation and calcium buildup in the heart valve. The early findings suggest that keeping gums healthy could play a role in reducing the risk of this serious heart condition.",
+      "date": "2026-07-13T05:52:18",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "New programmable photonic chip can control how fast light moves",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260718010149.htm",
+      "summary": "Scientists have created a programmable optical chip that can slow light on demand, giving engineers far greater control over how optical signals propagate through a circuit. The technology could provide the delays, synchronization, and buffering functions needed to make light-based computing more practical. A single chip could eventually perform several tasks that currently require separate devices, potentially reducing energy use, cost, and complexity in AI servers and data centers.",
+      "date": "2026-07-22T02:43:34",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "New AI blood test predicts heart disease 15 years early",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260716023603.htm",
+      "summary": "A new AI-powered blood test could give people a remarkably early warning of serious heart and circulation problems. Developed by researchers at the University of Hong Kong, CardiOmicScore analyzes thousands of proteins and metabolites to estimate the risk of six major cardiovascular diseases, including heart attack, stroke, heart failure, and atrial fibrillation. Unlike genetic risk scores, which remain fixed throughout life, the system captures biological changes linked to a person’s current health, lifestyle, and environment.",
+      "date": "2026-07-19T14:58:00",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "New “living plastic” self-destructs in just 6 days without leaving microplastics",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083552.htm",
+      "summary": "Researchers have created self-destructing living plastic that uses engineered bacteria to completely break itself down when activated. The material degrades in just six days without creating microplastics, offering a potential new solution for single-use plastic waste.",
+      "date": "2026-07-17T03:09:42",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Astronomers just found four hidden white dwarf stars near Earth",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260714225528.htm",
+      "summary": "Four nearby white dwarf stars have been discovered hiding in plain sight beside brighter red dwarf companions. Hubble's ultraviolet observations finally revealed the long-hidden stellar remnants, including one just 25 light-years away that took nearly three decades to confirm. The findings match long-standing predictions and suggest our corner of the galaxy may contain many more undiscovered white dwarf binaries.",
+      "date": "2026-07-15T06:30:25",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "NASA captured the Black Sea turning brilliant turquoise from space",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084900.htm",
+      "summary": "NASA's PACE satellite captured the Black Sea glowing turquoise during its annual phytoplankton bloom. The vivid color comes from massive numbers of coccolithophores, microscopic organisms whose reflective shells brighten the water enough to be seen from space. An astronaut aboard the International Space Station also photographed the bloom spreading through the Bosphorus, revealing swirling currents.",
+      "date": "2026-07-15T13:21:38",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "NASA's Perseverance just completed a marathon on Mars",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084858.htm",
+      "summary": "NASA's Perseverance rover has reached an impressive new milestone on Mars, completing the equivalent of a full marathon by driving 26.2 miles (42.195 kilometers) across the Red Planet. It accomplished the feat in just five years and four months, reaching the distance on its 1,890th Martian day, less than half the time it took the previous record holder, NASA's Opportunity rover.",
+      "date": "2026-07-14T05:32:12",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "NASA selects 41 space technologies for future Moon and Mars exploration",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084855.htm",
+      "summary": "NASA has chosen 41 commercial technology projects that could solve critical challenges for future missions to the Moon and Mars. From powering lunar outposts to protecting spacecraft from Moon dust, the innovations are designed to push both space exploration and the commercial space economy forward.",
+      "date": "2026-07-15T07:43:02",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "NASA selects four new Moon missions to build a permanent lunar base",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084853.htm",
+      "summary": "NASA is ramping up its lunar ambitions by awarding nearly $600 million for four commercial Moon landings planned for late 2028. Each mission will carry the same trio of science instruments to improve lunar navigation, study dangerous dust kicked up during landings, and map the Moon's radiation environment. The agency also revealed plans for new rovers, communication satellites, and additional cargo missions as it lays the groundwork for a permanent Moon Base.",
+      "date": "2026-07-14T04:40:26",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Alan Turing's biggest AI assumption may have been wrong",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084850.htm",
+      "summary": "A new book claims AI has been built on a flawed assumption dating back to Alan Turing's famous 1950 paper. Peter J. Denning argues that the most important parts of human intelligence, including common sense, intuition, culture, and practical know-how, cannot be encoded into computers. He believes this makes true human-level AI impossible, regardless of how large language models become.",
+      "date": "2026-07-14T03:12:35",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Physicists say quantum mechanics may not need imaginary numbers after all",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000807.htm",
+      "summary": "Physicists from Heinrich Heine University Düsseldorf (HHU) have examined a fundamental property of quantum mechanics in collaboration with the German Aerospace Center (DLR). In the scientific journal Physical Review Letters, they show that this theory does not necessarily need to be formulated with imaginary numbers – real numbers can in fact also be used. The American Physical Society has also dedicated a “Highlight” to these findings in its Physics Magazine.",
+      "date": "2026-07-13T07:22:08",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Stephen Hawking's black hole laws just got a major upgrade",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000757.htm",
+      "summary": "Scientists have developed a new framework that could finally apply the laws of thermodynamics to real, ever-changing black holes instead of only perfectly stable ones. The advance may improve our understanding of black hole mergers, evaporation, and the powerful gravitational wave events detected by observatories like LIGO.",
+      "date": "2026-07-13T10:41:43",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A 200-year-old physics experiment could help build future computers",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000755.htm",
+      "summary": "Scientists at Nanyang Technological University in Singapore have discovered a surprisingly simple way to create exotic light structures called optical skyrmions using a 200-year-old optical effect known as the Poisson spot. Instead of relying on expensive, highly engineered materials, they simply shine a laser at a tiny circular disc, producing stable swirling patterns in light that researchers believe could one day help power advanced data storage, communications, and computing technologies.",
+      "date": "2026-07-13T12:49:50",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists discovered the brain doesn't make decisions the way we thought",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260712011757.htm",
+      "summary": "A new study suggests the brain begins making decisions much earlier than scientists previously thought. Researchers found that even primary sensory regions are influenced by higher brain areas through rapid feedback loops, rather than simply passing information forward. This more dynamic view of brain function could help engineers design future AI systems that think more like biological brains while using far less power.",
+      "date": "2026-07-13T12:12:27",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Are there aliens on exoplanet K2-18b? Scientists just scanned it for signals",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260712011748.htm",
+      "summary": "K2-18b is one of the most promising worlds for the search for extraterrestrial life, so astronomers conducted an unusually powerful radio survey using both the VLA and MeerKAT telescopes. Advanced software analyzed millions of signals, filtering out Earth-based interference and other false positives. No convincing artificial radio transmissions were found, but the project demonstrated a powerful new approach that will make future SETI searches faster and far more effective.",
+      "date": "2026-07-14T13:04:12",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "NASA's James Webb Space Telescope reveals a strange atmosphere on a hellish lava planet",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260712011743.htm",
+      "summary": "NASA's James Webb Space Telescope has revealed new details about the blistering lava planet 55 Cancri e, where temperatures are high enough to melt rock. The data indicate the planet likely has a hydrogen-rich atmosphere shaped by gases escaping from its molten interior, with signs that volcanic outgassing may even create temporary clouds.",
+      "date": "2026-07-16T03:19:50",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "New dark matter theory could solve multiple cosmic mysteries at once",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260711010128.htm",
+      "summary": "Dark matter may be far more complicated than scientists once believed. A new study suggests it could consist of at least two different kinds of particles that slowly separate over time, with heavier particles sinking toward the centers of galaxies and lighter ones drifting outward. This simple idea could explain several puzzling cosmic observations that have frustrated astronomers for years, from unusually diffuse dwarf galaxies to surprisingly dense dark matter clumps that bend light through gravitational lensing.",
+      "date": "2026-07-14T02:30:53",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Physicists finally build a quantum material predicted more than a decade ago",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260711010123.htm",
+      "summary": "Researchers have achieved a major milestone by creating a long-sought two-dimensional quantum material and confirming its unusual conducting edge states. The ability to control these states through strain could make the material a promising platform for future room-temperature quantum electronics.",
+      "date": "2026-07-11T07:03:53",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Physicists recreate black hole energy extraction in the lab",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
+      "summary": "Researchers have recreated the physics of extracting energy from a spinning black hole using a stationary device that produces synthetic ultrafast rotation. The achievement transforms a long-standing theoretical idea into a practical experiment and could inspire new advances in optics, wireless communications, and quantum science.",
+      "date": "2026-07-12T12:28:41",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Tiny bubbles could revolutionize inkjet printing",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260711010112.htm",
+      "summary": "Ultra-fine bubbles may offer a cleaner way to perfect inkjet printing for next-generation electronics. By simply changing the number of bubbles in each droplet, researchers were able to dramatically reshape the final printed pattern without leaving behind unwanted chemical residues.",
+      "date": "2026-07-11T06:32:37",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Future moon landings could wipe out clues to how life began on Earth",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003537.htm",
+      "summary": "A new study suggests spacecraft exhaust could quickly contaminate the moon's most scientifically valuable regions, potentially masking ancient clues about how life began on Earth. Researchers say future lunar missions should consider new ways to reduce and monitor this pollution before it becomes widespread.",
+      "date": "2026-07-13T00:48:16",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The biggest problem with solid-state batteries may finally be solved",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003533.htm",
+      "summary": "Researchers solved the mystery of how soft lithium dendrites crack the hard ceramic inside solid-state batteries, triggering short circuits. The breakthrough could help engineers build safer, longer-lasting batteries for smartphones, electric vehicles, and other electronics.",
+      "date": "2026-07-10T12:29:27",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Europe just unveiled a new rival to SpaceX’s Starship",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003526.htm",
+      "summary": "A detailed independent study found that SpaceX's Starship is every bit as revolutionary as expected, while revealing both its impressive capabilities and its biggest remaining hurdles. It also introduces an ambitious European rocket concept that could offer a very different route to affordable super heavy launches.",
+      "date": "2026-07-11T01:14:33",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The galaxy’s coldest “stars” may actually be alien megastructures",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003524.htm",
+      "summary": "Scientists have identified new clues that could help astronomers spot one of the most famous hypothetical alien megastructures: a Dyson sphere. The study finds that red dwarfs and white dwarfs are the most promising stars to examine, since advanced civilizations could potentially build energy-harvesting swarms around them more easily. These objects would stand out by glowing in infrared light instead of visible light, lacking the dusty signatures of ordinary stars, and possibly flickering in unusual ways.",
+      "date": "2026-07-10T06:04:44",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Why gold never tarnishes has finally been explained",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003511.htm",
+      "summary": "Gold may have a secret self-defense system that helps it resist tarnishing. Researchers discovered that atoms on gold surfaces reorganize themselves into patterns that block oxygen from reacting with the metal, suppressing oxidation by up to a trillion-fold. Beyond explaining why gold jewelry stays bright for generations, the finding could help scientists create more powerful gold-based catalysts for manufacturing and clean energy.",
+      "date": "2026-07-12T02:36:05",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "This alien planet never has sunrise or sunset. It may support life",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160657.htm",
+      "summary": "A planet with one side permanently roasting and the other frozen in endless darkness might still have a chance of supporting life. Researchers found that heat inside a tidally locked exoplanet could circulate in a stable, continuous loop, helping moderate temperatures in certain regions. Their laboratory model suggests these worlds may be more hospitable than previously thought, despite their extreme surface conditions.",
+      "date": "2026-07-09T21:27:22",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "This electric field trick boosted heat flow by nearly 300%",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
+      "summary": "Researchers discovered that electricity can dramatically reshape how heat flows through certain ceramic materials, increasing heat conduction by almost threefold in a preferred direction. The unexpected result could lead to much more efficient cooling technologies and energy-saving devices.",
+      "date": "2026-07-11T12:18:02",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Physicists created a tiny universe where time emerged without a clock",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160632.htm",
+      "summary": "What if time doesn't actually exist until something changes? Scientists at the University of Birmingham created a tiny \"mini universe\" using 24,000 ultracold atoms and showed that the flow of time can emerge naturally from changes inside a quantum system, without relying on any external clock.",
+      "date": "2026-07-09T23:46:43",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Harvard scientists turn a silicon chip into a DNA writing machine",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022202.htm",
+      "summary": "Scientists have created a silicon chip that can write dozens of DNA sequences simultaneously using electricity and water-based enzymes, offering a cleaner alternative to conventional DNA manufacturing. The breakthrough could eventually support portable DNA-writing devices and even massive DNA data storage, although new chemistry will be needed to scale the technology further.",
+      "date": "2026-07-09T02:48:06",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Heidelberg physicists just united two opposing quantum theories",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022154.htm",
+      "summary": "A new quantum theory bridges two rival models of how impurities behave inside many-particle systems, resolving a problem that has challenged physicists for decades. The findings could reshape experiments on ultracold atoms, semiconductors, and other exotic forms of quantum matter.",
+      "date": "2026-07-09T00:15:58",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists finally solved a 150-year-old gallium mystery",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm",
+      "summary": "Scientists have rewritten the story of gallium after discovering that its unusual atomic bonds re-form at high temperatures, contradicting decades of accepted theory. The finding changes how researchers explain why the metal melts so easily and behaves unlike almost any other metal. Beyond solving a long-standing scientific mystery, the work could lead to advances in semiconductors, nanotechnology, and liquid metal engineering.",
+      "date": "2026-07-09T07:40:57",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "This Mars rover could finally reveal whether life ever existed on Mars",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707025051.htm",
+      "summary": "The hunt for ancient life on Mars just got an important test run. Scientists confirmed that the Rosalind Franklin rover's sophisticated instrument can detect subtle differences in two stable molecules that could preserve evidence of past life for billions of years. But the team also uncovered a surprise: organic molecules in the Murchison meteorite appear to have been contaminated by fossil fuel pollution during their journey through Earth's atmosphere.",
+      "date": "2026-07-09T10:40:52",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "These ancient quasars shouldn't exist so soon after the Big Bang",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707025049.htm",
+      "summary": "Astronomers have uncovered 31 of the oldest known quasars, including the two earliest ever detected, shining from a time when the universe was only about 670 million years old. Powered by supermassive black holes billions of times the Sun’s mass, these incredibly bright objects challenge scientists’ understanding of how such enormous black holes formed so quickly after the Big Bang.",
+      "date": "2026-07-07T06:50:49",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Earth has a natural thermostat and scientists finally know how it works",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260715083527.htm",
+      "summary": "Scientists have identified a hidden feedback loop that may explain how Earth has regulated its climate for tens of millions of years. As sea levels rose and fell, they changed how much phosphate reached the open ocean, affecting marine life and the amount of carbon buried beneath the seafloor. That burial removed carbon dioxide from the atmosphere, helping cool the planet.",
+      "date": "2026-07-16T12:37:26",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "This ancient sea worm has “bio-metal” jaws unlike anything scientists have seen",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260714225530.htm",
+      "summary": "An ancient sea worm may hold the secret to a whole new category of natural materials. Its jaws combine proteins and metal ions in a way that gives them metal-like strength and unusual mechanical behavior, yet they still differ from traditional metals. Researchers believe these \"bio-metals\" could open new directions in materials science while revealing just how sophisticated nature's designs can be.",
+      "date": "2026-07-16T13:29:33",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Archaeologists found Homer's Iliad inside a 1,600-year-old Egyptian mummy",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084918.htm",
+      "summary": "A 1,600-year-old mummy discovered in Egypt has revealed something archaeologists had never seen before: a fragment of Homer’s Iliad used during embalming. The papyrus was identified as part of the famous \"Catalogue of Ships,\" one of the best-known sections of the ancient epic. Researchers say it is the first archaeological evidence of a Greek literary text being intentionally incorporated into the mummification process, adding a fascinating new chapter to the history of both literature and ancient burial customs.",
+      "date": "2026-07-15T12:21:11",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Why have humans collected crystals for 780,000 years? Chimpanzees may hold the answer",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000813.htm",
+      "summary": "Chimpanzees showed a remarkable attraction to crystals, choosing them over ordinary stones and studying them with intense curiosity. The results suggest that the same unusual features may have fascinated early humans long before crystals had any practical use.",
+      "date": "2026-07-15T02:56:14",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "This dinosaur fossil captures the final moments of a T. rex attack",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000811.htm",
+      "summary": "A fossilized Edmontosaurus skull with a Tyrannosaurus tooth still embedded in its face has given scientists rare evidence of a dramatic predator-prey encounter. The discovery suggests the giant carnivore delivered an incredibly powerful face-to-face bite, offering new clues about how Tyrannosaurus hunted.",
+      "date": "2026-07-14T06:48:52",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A 37-year soil experiment revealed a hidden climate threat",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713000809.htm",
+      "summary": "The world's longest-running soil warming experiment has revealed an unexpected climate concern. After nearly four decades, researchers found that warming can cause microbes to break down stable soil carbon that scientists once believed was largely protected. That releases extra carbon dioxide into the atmosphere, potentially accelerating global warming.",
+      "date": "2026-07-14T11:56:17",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Spider-like creatures help uncover the surprising origins of fatherhood",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260712011737.htm",
+      "summary": "Citizen scientists have helped researchers solve a long-standing mystery about how parental care evolved in harvestmen. Using photos and observations from iNaturalist, scientists more than doubled the known cases of egg-guarding behavior and discovered that maternal and paternal care followed different evolutionary paths. The project, completed in just days with help from public data, shows how citizen science is transforming biological research on a global scale.",
+      "date": "2026-07-12T23:49:47",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Deep-sea life has a secret food source scientists never expected",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260711010127.htm",
+      "summary": "Scientists discovered that extreme deep-sea pressure squeezes valuable nutrients out of sinking organic particles, providing an unexpected food source for ocean microbes. The finding could rewrite our understanding of both deep-ocean ecosystems and how carbon is stored on Earth.",
+      "date": "2026-07-12T12:14:55",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists finally solved the mystery of Earth's greatest mass extinction",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260711010122.htm",
+      "summary": "Why do beaches today have seashells from clams and snails instead of brachiopods? A new study suggests the answer lies in Earth's greatest mass extinction, when warming oceans and falling oxygen levels wiped out animals that couldn't adapt. Species with body plans and metabolisms better suited to the changing conditions survived and went on to dominate the seas, offering a glimpse of how modern marine life could respond to climate change.",
+      "date": "2026-07-12T04:02:00",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists warn invasive Asian mantises are threatening Europe's wildlife",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003540.htm",
+      "summary": "Two striking Asian praying mantis species that have rapidly spread across Europe have now been officially classified as invasive, raising new concerns about their impact on native wildlife. Boosted by climate change and urban environments, these fast-breeding predators are expanding northward, where they prey on native insects, pollinators, and even small vertebrates while also reducing native mantis populations through deadly mating interactions.",
+      "date": "2026-07-11T12:53:55",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "NASA satellites are watching Earth's newest island rise from the sea",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260710003517.htm",
+      "summary": "A newly discovered underwater volcanic eruption north of Papua New Guinea is unfolding in one of the world's most poorly mapped ocean basins. Satellites have spotted steam plumes, ash, thermal hotspots, and huge floating pumice rafts, suggesting magma is rising surprisingly close to the surface. Scientists are now watching closely to see if the eruption creates a new island, offering a rare opportunity to observe the birth of new land as it happens.",
+      "date": "2026-07-10T22:57:49",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Europe's most active volcano may have a secret origin",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160653.htm",
+      "summary": "Mount Etna has long puzzled geologists because it doesn't fit any of the three classic ways volcanoes are thought to form. A new study suggests it may instead be fueled by ancient pockets of magma that are pushed upward through cracks created by shifting tectonic plates. If confirmed, Etna could belong to a rare fourth category of volcano, revealing that much larger volcanoes can form through processes previously associated only with small submarine eruptions.",
+      "date": "2026-07-10T11:16:59",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Rare fossil goose rewrites the story of New Zealand's giant birds",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160637.htm",
+      "summary": "Scientists have discovered a previously unknown fossil goose that challenges a decades-old theory about the evolution of New Zealand's birds. The find suggests the country's giant flightless geese evolved from much more recent arrivals, revealing a far more dynamic evolutionary history than once believed.",
+      "date": "2026-07-11T01:57:14",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "This common pesticide may be quietly wiping out future bumblebees",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160630.htm",
+      "summary": "A next-generation pesticide designed to kill crop pests may also be interfering with the reproductive health of bumblebees. Researchers discovered that low-dose exposure to sulfoxaflor changed gene activity, especially in tissues involved in reproduction, raising concerns about long-term impacts on bee populations. Because pollinators are essential for about one-third of the world's food production, finding ways to protect them while controlling pests has become increasingly important.",
+      "date": "2026-07-10T11:58:21",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Hawaii's famous “happy-face” spider has a surprising relative",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160627.htm",
+      "summary": "A newly discovered Happy-Face spider in the Himalayas closely resembles Hawaii's iconic species but evolved independently, according to DNA evidence. Its mysterious smile-like markings, many color forms, and unexpected link to ginger plants have scientists eager to learn how the two distant species are connected.",
+      "date": "2026-07-09T20:56:57",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Trees keep absorbing carbon long after they stop growing",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022210.htm",
+      "summary": "Oak trees keep absorbing carbon dioxide long after their annual growth has ended, revealing that photosynthesis and wood production are not as closely linked as scientists once believed. The finding could reshape forecasts of how much carbon forests will be able to store in a warmer future.",
+      "date": "2026-07-09T06:28:44",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Rare goblin shark filmed alive for the first time in the deep sea",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260708022208.htm",
+      "summary": "For the first time, researchers have filmed the elusive goblin shark alive in the deep ocean where it naturally lives. The remarkable sightings greatly expand the shark's known range and depth, showing that this 125-million-year-old \"living fossil\" still has plenty of secrets left to reveal.",
+      "date": "2026-07-08T23:00:05",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists just debunked a dangerous baby rattlesnake myth",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707054123.htm",
+      "summary": "A new study debunks the long-standing claim that baby rattlesnakes are more dangerous than adults. Researchers found that young rattlesnakes can control their venom just like adults, while adult snakes usually inject much more venom and cause more serious bites. The team also uncovered how the myth spread through decades of inaccurate news reports and misleading quotes from trusted sources.",
+      "date": "2026-07-10T01:59:50",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Ancient DNA reveals the mysterious collapse of Europe's megalith builders",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707054108.htm",
+      "summary": "DNA from a 5,000-year-old French megalithic tomb reveals that the people buried before and after a population collapse were genetically unrelated, pointing to a major migration after a devastating crisis. The shift coincided with new social traditions and the disappearance of the communities that built Europe's giant stone monuments.",
+      "date": "2026-07-08T07:50:55",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Bumblebees collect up to 7 times more toxic metals than honeybees",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707025044.htm",
+      "summary": "Bumblebees are picking up dramatically more toxic heavy metals than honeybees, even when both species forage in the same places. Researchers warn that this hidden pollution could quietly reduce their ability to find food, reproduce, and keep colonies healthy.",
+      "date": "2026-07-07T22:11:22",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "New research reveals the hidden pollution left behind by fireworks",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260701205009.htm",
+      "summary": "Scientists have uncovered new evidence that fireworks can pollute both the air and water in ways that extend beyond the visible smoke. The findings show that leftover debris, fine particles, and airborne chemicals may affect ecosystems and increase people's exposure to air pollution during major celebrations.",
+      "date": "2026-07-04T02:48:09",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists finally crack nature's secret for building better cancer drugs",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260701205001.htm",
+      "summary": "Researchers have cracked the code behind bacteria's ability to naturally manufacture multiple versions of powerful anti-cancer drugs. The discovery could make it much easier to engineer new cancer treatments inspired by nature, including improved versions of existing medicines.",
+      "date": "2026-07-08T21:28:31",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists discover a completely different way to fight viruses",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260630020534.htm",
+      "summary": "Researchers have uncovered an unexpected antiviral defense system in sea anemones that works very differently from the one humans use. The discovery suggests evolution developed multiple ways to combat viruses, challenging long-held ideas about how animal immune systems evolved.",
+      "date": "2026-06-30T20:18:00",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Streetlights are trapping thousands of pill bugs in giant “death spirals”",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626125707.htm",
+      "summary": "Researchers discovered that artificial streetlights can trap thousands of woodlice in mesmerizing circular \"death spirals\" never before seen in the wild. The surprising finding suggests that light pollution may be unintentionally altering the behavior of even the smallest ground-dwelling animals.",
+      "date": "2026-07-06T08:42:44",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Great ape laughter reveals a hidden origin of human speech",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626124704.htm",
+      "summary": "The rhythm of human laughter appears to have deep evolutionary roots shared with chimpanzees, bonobos, gorillas, and orangutans. That ancient pattern may offer one of the clearest clues yet to how the vocal control needed for human speech gradually evolved.",
+      "date": "2026-07-02T00:36:29",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "These tiny soil microbes could rescue crops from salty farmland",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
+      "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural compound that strengthens roots and makes plants more resilient. Greenhouse and field tests showed healthier plants and higher yields in salty conditions. The findings could lead to bio-based treatments that help farmers grow crops on land once considered too salty for agriculture.",
+      "date": "2026-06-29T01:21:44",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A popular climate fix could accidentally trigger massive changes to global weather",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626030448.htm",
+      "summary": "A new study found that not all geoengineering ideas are created equal. Brightening marine clouds over the eastern Pacific could dramatically weaken the El Niño cycle, triggering major changes to global weather patterns, while stratospheric aerosol injection left the system largely unchanged. Researchers say the results are a reminder that efforts to cool the planet could produce unexpected consequences if they are deployed without a full understanding of how Earth's climate works.",
+      "date": "2026-07-03T17:31:51",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The Neanderthal “love story” isn’t what the DNA actually shows",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626030443.htm",
+      "summary": "Claims that Neanderthal men \"preferred\" Homo sapiens women may make for catchy headlines, but the underlying research does not actually show prehistoric romance. The genetic evidence only points to an uneven pattern of DNA inheritance, which could have been shaped by biology, migration, or social organization. Archaeological evidence suggests Neanderthal groups may have followed traditions where women moved between communities, opening the door to far more complicated explanations than simple attraction.",
+      "date": "2026-07-07T06:47:40",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Record-breaking ocean drilling reveals why Japan's 2011 tsunami was so deadly",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625060220.htm",
+      "summary": "Scientists have uncovered a hidden weakness beneath the Pacific Ocean that helps explain why Japan’s catastrophic 2011 earthquake and tsunami became so devastating. By drilling deeper into the seafloor than ever before, researchers discovered a thin, slippery layer of ancient clay that allowed the massive rupture to race all the way to the ocean floor, triggering enormous seafloor movement and a powerful tsunami.",
+      "date": "2026-07-05T19:41:58",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
+      "summary": "NASA's Hubble Space Telescope has captured a spectacular red, white, and blue view of one of the Milky Way's oldest star clusters to celebrate the nation's 250th anniversary. Hidden within the ancient cluster are clues to how exploding stars helped transform the young universe into one capable of forming planets and, eventually, life.",
+      "date": "2026-07-05T04:10:58",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260704232639.htm",
+      "summary": "Hubble has captured a spectacular view of LH 95, where about 2,500 young stars are still on their journey to becoming full-fledged stars. Scientists discovered these growing stars can keep pulling in gas and dust for millions of years, extending an important stage of stellar development. The region also contains multiple generations of stars living side by side, offering fresh clues about how star formation unfolds over time.",
+      "date": "2026-07-05T04:03:07",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "NASA's Hubble captures a star-spangled sea of 500,000 stars",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260704232634.htm",
+      "summary": "Celebrating the United States' 250th anniversary, NASA released a stunning Hubble portrait of Messier 3, an ancient globular cluster with more than 500,000 stars. The remarkable cluster is helping scientists unravel the Milky Way's past thanks to its rare stars and possible origins in a long ago cosmic merger.",
+      "date": "2026-07-05T03:39:18",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "5,000-year-old wolves found on remote island rewrite what we know about domestication",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260624115624.htm",
+      "summary": "Scientists discovered ancient wolves on a tiny Baltic island where they could only have been brought by humans, suggesting an unexpectedly close relationship between people and wolves thousands of years ago. Evidence indicates the wolves were fed, possibly cared for, and may even have been managed or selectively bred long before modern ideas of domestication.",
+      "date": "2026-07-05T21:54:12",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists discover what kept ancient campfires burning for generations",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260624025502.htm",
+      "summary": "Nearly 800,000 years ago, early humans living beside a lake in what is now Israel may have chosen the location for one surprisingly practical reason: firewood. Researchers discovered that these ancient people regularly gathered driftwood washed up along the shoreline, giving them an easy, reliable fuel source for cooking fish, processing large animals, making tools, and organizing daily life around hearths.",
+      "date": "2026-07-15T01:12:21",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The universe may be hiding conscious minds stranger than we can imagine",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083146.htm",
+      "summary": "What if consciousness isn’t limited to brains like ours? Philosophers Eric Schwitzgebel and Jeremy Pober argue that consciousness could arise in many different forms of life, even in beings built from radically different materials than those found on Earth. Drawing on the vastness of the universe and the likely existence of countless alien civilizations, they suggest it would be surprisingly Earth-centric to assume that only Earth-like biology can support conscious experience.",
+      "date": "2026-06-24T14:49:57",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Early humans were bringing fire into caves 1.8 million years ago",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083123.htm",
+      "summary": "A new study suggests early humans were using fire in South Africa’s Wonderwerk Cave as far back as 1.79 million years ago. Researchers found burned bones deep inside the cave, where natural wildfires could not have reached, indicating that fire was likely carried in and maintained by human ancestors. The discovery pushes back the timeline for fire use and reveals surprisingly sophisticated behavior long before humans could create fire on demand.",
+      "date": "2026-06-24T09:12:51",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Why scientists fear we're missing evidence of extraterrestrial life",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083121.htm",
+      "summary": "Scientists are raising concerns that we may be overlooking evidence of extraterrestrial life even when it is present. Hidden biosignatures, limitations in detection technology, and assumptions about what life should look like can all create dangerous false negatives. The researchers say future missions should focus not only on finding life, but also on understanding how signs of life could be missed.",
+      "date": "2026-06-30T02:34:31",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Nearly half of kidney transplant patients never even get started",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623014006.htm",
+      "summary": "A massive national study found that nearly half of Americans with kidney failure who are referred for a transplant never even begin the evaluation process, and only 19% make it onto the transplant waitlist. Researchers discovered that factors such as where a person lives, whether they are married, their income level, language, age, and even which transplant center they use can dramatically affect their chances of moving forward.",
+      "date": "2026-07-01T20:10:45",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Chinese sodium battery surprised scientists by matching key Tesla benchmarks",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621060305.htm",
+      "summary": "Researchers found that a Chinese sodium-ion battery performs far better than expected, with production quality and design features comparable to Tesla’s batteries. If engineers can improve cold-weather charging and energy density, sodium could become a cheaper and more abundant alternative to lithium for EVs and large-scale energy storage.",
+      "date": "2026-06-21T14:06:09",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A single cobalt shock could trigger global EV battery supply chaos",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260619101402.htm",
+      "summary": "The global cobalt supply chain is more interconnected—and more vulnerable—than previously thought, with disruptions capable of triggering far-reaching cascades across multiple countries and industries. Researchers warn that protecting battery supply chains will require system-wide coordination because critical bottlenecks can turn local shocks into global problems.",
+      "date": "2026-06-20T14:00:29",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Think human anatomy is finished? Scientists say think again",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260618041511.htm",
+      "summary": "Despite centuries of study, scientists are still finding new details and even overlooked structures within the human body. As researchers explore anatomical differences between individuals, it’s becoming clear that the body is far more complex—and less fully understood—than textbooks suggest.",
+      "date": "2026-06-21T07:26:53",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "SpaceX wants to build AI data centers in space. Will it work?",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260618041501.htm",
+      "summary": "The race to build data centers in space is gaining momentum as AI drives unprecedented demand for computing power. Orbital facilities could tap into abundant solar energy and avoid many of the environmental challenges faced on Earth. Yet space remains a harsh and expensive place to operate, with major hurdles including cooling, maintenance, radiation exposure, and orbital debris.",
+      "date": "2026-06-19T03:43:09",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Ancient DNA reveals plague was already killing humans 5,500 years ago",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260618041450.htm",
+      "summary": "Plague was already a deadly killer 5,500 years ago, long before cities, farming, or the rat-infested conditions usually linked to historic outbreaks. By analyzing ancient DNA from hunter-gatherer cemeteries in Siberia, researchers discovered early plague strains in nearly 40% of the individuals studied and found evidence of rapid family-based outbreaks that wiped out many children and young teenagers.",
+      "date": "2026-06-18T12:16:46",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Your brain was never designed for this much bad news",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "summary": "Humans evolved to pay close attention to danger, but today that instinct is being overwhelmed by an endless supply of bad news from around the world. Researchers say the answer isn’t to stop following current events—it’s to build healthier habits around how, when, and where we get our news.",
+      "date": "2026-06-16T07:32:55",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Yellowstone wolves may not have reshaped the national park after all",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260613215510.htm",
+      "summary": "One of the most celebrated claims about Yellowstone’s wolves is facing a major challenge. Scientists say the study behind the famous trophic cascade story relied on flawed methods that overstated the ecological impact of wolf recovery. Their reanalysis found no evidence for a dramatic, park-wide surge in willow growth. Instead, the effects appear smaller and vary from place to place.",
+      "date": "2026-06-14T04:27:09",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Why middle age is becoming a breaking point in the U.S.",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260613215430.htm",
+      "summary": "A new international study finds that middle-aged Americans are lonelier, more depressed, and experiencing worse memory and health than earlier generations. Researchers say growing financial strain, weaker social supports, and chronic stress may explain why the U.S. is falling behind other wealthy nations.",
+      "date": "2026-06-14T02:24:12",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Why grandparents matter more than ever for children's mental health",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260613034206.htm",
+      "summary": "A child psychologist says grandparents are more important than ever as youth mental health challenges continue to rise. He argues that children need supportive relationships, meaningful conversations, and a sense of purpose—not just pressure to achieve. Grandparents can help by listening, encouraging, and creating positive experiences that strengthen emotional resilience.",
+      "date": "2026-06-13T09:11:52",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "New fentanyl vaccine blocks deadly overdoses before they start",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612032029.htm",
+      "summary": "A new experimental vaccine developed by Scripps Research could offer a powerful new way to prevent fentanyl overdoses by stopping the drug before it reaches the brain. Rather than targeting only fentanyl itself, the vaccine trains the immune system to recognize a broad range of fentanyl-related designer drugs, including some of the most dangerous variants.",
+      "date": "2026-06-13T05:35:08",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A legendary golden fabric lost for 2,000 years has returned",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260612021000.htm",
+      "summary": "Researchers in South Korea have recreated the legendary “sea silk” once prized by emperors, using fibers from a clam cultivated in Korean coastal waters. They discovered that its famous golden shine comes from tiny protein structures that reflect light rather than from pigments or dyes. Because the color is built into the fiber’s structure, it can remain vibrant for centuries.",
+      "date": "2026-06-12T07:02:55",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Ancient DNA shared with Neanderthals may explain human language",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260611024612.htm",
+      "summary": "A tiny set of ancient genetic “switches” may have played a surprisingly large role in making human language possible. Researchers found that these DNA regions, which act like volume controls for genes involved in brain development, have an outsized influence on language ability despite making up less than 0.1% of the genome.",
+      "date": "2026-06-12T05:13:27",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The 1,100-year-old mystery of Montana’s lost bison hunting site finally solved",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260610003056.htm",
+      "summary": "For nearly 700 years, Indigenous hunters repeatedly used a bison kill site in central Montana—then suddenly stopped, even though bison were still abundant. Researchers uncovered evidence that recurring, decades-long droughts likely made the site less practical by reducing access to the water needed to process large numbers of animals. At the same time, hunting groups were shifting toward larger, more coordinated operations that required dependable resources and specialized locations.",
+      "date": "2026-06-11T13:08:56",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "An invisible forever chemical rain is falling across the planet",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260609025509.htm",
+      "summary": "A surprising study suggests that chemicals introduced to protect the ozone layer may have unintentionally created a growing global pollution problem. Researchers found that refrigerants and certain anesthetic gases have generated more than 335,000 tonnes of trifluoroacetic acid (TFA), a highly persistent \"forever chemical,\" that has been deposited across Earth's surface since 2000. The pollutant is now showing up everywhere from rainwater to remote Arctic ice, and scientists expect levels to keep rising.",
+      "date": "2026-06-09T07:11:45",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Stonehenge's most mysterious stone traveled 700 kilometers across Britain",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260608040003.htm",
+      "summary": "Scientists have uncovered new evidence that Stonehenge’s six-ton Altar Stone was deliberately transported hundreds of kilometers from Scotland by ancient people. The feat would have required extraordinary planning, teamwork, and determination, revealing a surprisingly sophisticated level of organization thousands of years ago.",
+      "date": "2026-06-09T08:42:29",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists may have debunked one of humanity's oldest habits",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260606075855.htm",
+      "summary": "Ancient grooves on human teeth, once hailed as evidence of tooth-picking, may simply be the result of natural wear, according to a new study of wild primates. The research also revealed that a common modern dental defect appears to be uniquely human, hinting that today's lifestyles may be reshaping our teeth in unexpected ways.",
+      "date": "2026-06-08T10:49:32",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Everyone thought these helmets were Roman until scientists uncovered the truth",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260606075515.htm",
+      "summary": "Researchers have solved a decades-old mystery by showing that a cache of 43 helmets found off the Spanish coast is medieval, not Roman. The remarkable discovery exposes a thriving weapons trade network that connected Mediterranean powers during a time of piracy, warfare, and growing demand for military equipment.",
+      "date": "2026-06-08T09:42:36",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "AI-designed universal coronavirus vaccine passes first human trial",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260605023357.htm",
+      "summary": "Scientists have successfully tested an AI-designed universal coronavirus vaccine in humans for the first time, finding it to be safe and well tolerated. The vaccine generated immune responses against multiple coronaviruses, including SARS-CoV-2, SARS, and related bat viruses with pandemic potential. By targeting features shared across an entire virus family, it aims to provide protection even as viruses evolve.",
+      "date": "2026-06-05T15:42:19",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists are seriously asking if bees and ChatGPT are conscious",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260604044258.htm",
+      "summary": "New studies suggest consciousness can't be judged solely by behavior, whether it's a chatbot discussing philosophy or a bee searching for nectar. Researchers are increasingly focusing on the internal mechanisms of brains and computers, concluding that today's AI is likely not conscious while leaving open the possibility for both conscious insects and future machines.",
+      "date": "2026-06-05T05:27:32",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A child's tooth and strange green stones uncover a 5,500-year-old mystery",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260603023914.htm",
+      "summary": "An ancient mountain cave in the Pyrenees may have served as one of the earliest high-altitude mining camps ever discovered, with evidence of repeated visits spanning thousands of years. The find becomes even more intriguing with the discovery of a child’s remains and clues that deeper excavations could uncover prehistoric burials.",
+      "date": "2026-06-03T09:10:16",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Hidden driving danger when edible cannabis and alcohol mix",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260529043656.htm",
+      "summary": "Using cannabis edibles and alcohol together may make drivers far more impaired than either substance alone, according to new research from Johns Hopkins. Even more concerning, common field sobriety tests often failed to detect the cannabis-related impairment.",
+      "date": "2026-05-29T13:42:07",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Ancient DNA reveals how women helped transform prehistoric Europe",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260529043649.htm",
+      "summary": "New DNA evidence shows that Europe’s hunter-gatherers and early farmers interacted far more closely than previously thought, with women likely playing a crucial role in spreading farming across northwestern Europe. Centuries later, the arrival of Bell Beaker migrants triggered another sweeping population transformation that extended all the way to Britain.",
+      "date": "2026-05-30T08:02:43",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists create global treasure map pointing to hidden rare earth deposits",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260525000450.htm",
+      "summary": "Scientists have created a global “treasure map” for rare earth elements by uncovering where the strange volcanic rocks that contain them are most likely to form. By combining thousands of rock samples with seismic images of Earth’s deep interior, the team discovered that these metal-rich rocks tend to appear along the ancient, thick roots of continents. These unusual rocks, once seen as geological oddities, are now incredibly important because they hold many of the materials used in smartphones, electric vehicles, and wind turbines.",
+      "date": "2026-05-26T12:40:12",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "AI won’t replace you but someone using AI might",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260525000448.htm",
+      "summary": "Generative AI is transforming the workplace faster than ever, but new research from the University of Vaasa suggests the biggest threat may not be AI itself — it’s falling behind in learning how to use it. Researcher Zhe Zhu found that employees who see tools like ChatGPT and Gemini as helpful collaborators rather than job-stealing rivals tend to be more engaged, adaptable, and optimistic about their careers.",
+      "date": "2026-05-25T11:21:14",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists discover the oldest wooden tools ever used by humans",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260523103939.htm",
+      "summary": "Scientists have uncovered the oldest known hand-held wooden tools ever used by humans — and they’re an astonishing 430,000 years old. Buried for hundreds of thousands of years at an ancient lakeside site in Greece, the carefully carved wooden objects reveal that early humans were far more skilled and resourceful than once believed.",
+      "date": "2026-05-24T12:22:54",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Ordinary WiFi can now identify people with near perfect accuracy",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260522023127.htm",
+      "summary": "Scientists in Germany have demonstrated a startling new form of surveillance: identifying people using nothing more than ordinary WiFi signals. By analyzing how radio waves bounce around a room, researchers can effectively “see” and recognize individuals — even if they are not carrying a device and even if their phone is turned off.",
+      "date": "2026-05-23T03:03:54",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Think you’re bad at languages? Experts say these 5 myths are to blame",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260521072412.htm",
+      "summary": "Many people avoid learning a new language because they remember stressful grammar lessons or fear making mistakes. But language experts say communication, culture, and connection matter far more than perfection. Modern apps, entertainment, travel, and online communities have made learning easier, more social, and surprisingly fun.",
+      "date": "2026-05-22T00:14:13",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Ancient chemistry trick unlocks new type of glass that traps CO2 and hydrogen",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260521072404.htm",
+      "summary": "Researchers have discovered how to fine-tune a futuristic type of porous glass that can trap gases like CO2 and hydrogen. Inspired by centuries-old glassmaking techniques, the team added sodium and lithium compounds to make the material easier to process and shape. The breakthrough could accelerate the development of high-performance materials for clean energy, gas storage, and advanced manufacturing.",
+      "date": "2026-05-22T09:17:29",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Britain’s 11,000-year-old “oldest northerner” was a 3-year-old girl, DNA reveals",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260519224326.htm",
+      "summary": "Scientists have identified the oldest known human remains in Northern Britain as a young girl who lived around 11,000 years ago. Found in a Cumbrian cave and nicknamed the “Ossick Lass,” she was likely between 2.5 and 3.5 years old when she died. Nearby jewelry and evidence of multiple burials suggest the cave held deep spiritual importance for some of Britain’s earliest hunter-gatherers. The discovery is shedding new light on life — and death — just after the Ice Age.",
+      "date": "2026-05-20T07:07:58",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists discover massive natural hydrogen source beneath Canada",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260519224317.htm",
+      "summary": "Scientists in Canada have discovered that ancient underground rocks are naturally producing hydrogen gas — and lots of it. Measurements from mine boreholes in Ontario show the gas can flow continuously for years, offering a potential new source of clean energy called “white hydrogen.” Researchers say this hidden resource could help power industries and remote communities while cutting carbon emissions and reducing dependence on fossil fuels.",
+      "date": "2026-05-20T12:46:14",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Rare graves reveal a lost world of Bronze Age Europe hidden for 3,000 years",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260518041445.htm",
+      "summary": "Scientists have uncovered remarkable new details about Bronze Age life in Central Europe by studying rare burials untouched by cremation. The research reveals communities experimenting with new foods, burial rituals, and cultural connections while largely staying rooted in their local homelands.",
+      "date": "2026-05-19T09:19:58",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Stunning fossil discovery in Ethiopia rewrites human origins",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515234644.htm",
+      "summary": "A stunning fossil discovery in Ethiopia shows that early Homo and a previously unknown Australopithecus species lived together around 2.6 to 2.8 million years ago. The find overturns the classic “ape-to-human” progression and paints human evolution as a crowded, branching tree with multiple species coexisting. Scientists dated the fossils using volcanic ash deposits and are now investigating what these ancient relatives ate and whether they competed for resources.",
+      "date": "2026-05-16T11:20:39",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Lost 1,200-year-old manuscript contains the first English poem",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260515233337.htm",
+      "summary": "A long-lost manuscript discovered in Rome has revealed one of the oldest surviving versions of the very first known poem written in English. Hidden for decades and once believed lost, the 1,200-year-old manuscript contains Caedmon’s Hymn — a nine-line Old English poem said to have been miraculously composed by a shy Northumbrian cowherd after a divine dream.",
+      "date": "2026-05-17T06:22:40",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Who are the Japanese? Huge DNA discovery rewrites history",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260514003314.htm",
+      "summary": "Scientists analyzing the genomes of thousands of people across Japan discovered evidence for a previously overlooked third ancestral group, challenging the long-accepted “dual origins” theory. The newly identified ancestry appears linked to the ancient Emishi people of northeastern Japan. Researchers also uncovered inherited Neanderthal and Denisovan DNA connected to conditions like diabetes, heart disease, and cancer.",
+      "date": "2026-05-14T05:00:37",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Deadly “red sky” solar storm from 800 years ago discovered in ancient trees",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260513221818.htm",
+      "summary": "Researchers in Japan traced a hidden medieval solar storm using ancient tree rings and centuries-old sky observations. The team linked reports of eerie red auroras with spikes of carbon-14 trapped in buried wood, revealing a powerful solar radiation event around 1200 CE. The findings suggest the Sun was far more active at the time, with unusually short solar cycles.",
+      "date": "2026-05-14T05:55:09",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Halley’s comet may be named after the wrong person",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260512202329.htm",
+      "summary": "A medieval monk may have beaten Edmond Halley to one of astronomy’s greatest discoveries by nearly 700 years. Researchers say Eilmer of Malmesbury recognized that the blazing comet seen in 1066 was the same one he had witnessed in 989. At the time, comets were viewed as terrifying omens tied to war and royal deaths, adding even more drama to the famous celestial event shown in the Bayeux Tapestry. The discovery is sparking debate over whether Halley’s Comet deserves a different name.",
+      "date": "2026-05-13T12:59:21",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A supervolcano nearly wiped out humanity 74,000 years ago, but humans did something incredible",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260510234711.htm",
+      "summary": "The Toba supereruption 74,000 years ago was so massive it may have plunged Earth into years of darkness and cold, leading some scientists to believe humanity nearly went extinct. Yet archaeological evidence from Africa and Asia suggests early humans were far more resilient than once thought. Instead of disappearing, some communities adapted with new tools, new survival strategies, and remarkable flexibility. The disaster may not have destroyed humanity — it may have revealed just how tough humans really are.",
+      "date": "2026-05-11T03:47:11",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Common constipation drug may help clear depression brain fog",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260712011751.htm",
+      "summary": "An existing constipation drug may have an unexpected new use: helping clear the \"brain fog\" that often lingers after depression. In a small clinical trial, people with a history of depression who took the medication prucalopride for about a week performed better on tests of memory, attention, and thinking speed than those who received a placebo. The drug targets a serotonin receptor found in both the gut and the brain, and researchers saw no significant side effects.",
+      "date": "2026-07-16T00:49:09",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists discover why peach fuzz can suddenly make you itch",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260712011740.htm",
+      "summary": "A newly discovered network of fine hairs and specialized nerve cells appears to form a dedicated system for sensing mechanical itch, offering fresh insight into why chronic itching occurs. Because humans show signs of having the same pathway, the research could pave the way for more effective treatments for conditions such as eczema.",
+      "date": "2026-07-14T04:16:23",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "This frog bacterium wiped out cancer tumors in mice with a single dose",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160655.htm",
+      "summary": "A naturally occurring bacterium from amphibian intestines completely eliminated colorectal tumors in mice with a single treatment by both attacking cancer cells and activating the immune system. The findings point to a promising new type of cancer therapy that could one day work against many solid tumors.",
+      "date": "2026-07-10T04:13:15",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Why the human body has so many design flaws",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260709160641.htm",
+      "summary": "Many of the body's biggest flaws are the result of evolution building on old designs instead of starting over. Our spine, eyes, teeth, pelvis, and even certain nerves all reveal compromises that worked well enough for survival but still leave us prone to pain, injury, and disease. Structures like the appendix and ear muscles also remain because they were never harmful enough for evolution to eliminate. Together, these features tell the story of a body shaped by history rather than perfection.",
+      "date": "2026-07-11T02:35:02",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists discover the one nutrient beneficial parasites can't live without",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260707054114.htm",
+      "summary": "A new study found that dietary fiber can determine whether beneficial intestinal worms help reduce inflammation or become essentially inactive. With plenty of fiber, the worms remained healthy and supported an anti-inflammatory response, while a low-fiber diet pushed them into a hibernation-like state that eliminated those benefits. Researchers also found that fiber-rich diets promoted healthier gut bacteria, whereas Western-style diets reduced microbial diversity and encouraged less desirable microbes.",
+      "date": "2026-07-10T23:59:04",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Schrödinger’s anthill: Quantum entanglement found in a crystal large enough to hold",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260701015242.htm",
+      "summary": "A centimeter-sized crystal has revealed clear signs of quantum entanglement, showing that large, everyday objects can display surprisingly deep quantum behavior. The discovery could help solve the mystery of strange metals while opening new possibilities for ultra-precise quantum sensors and other advanced technologies.",
+      "date": "2026-07-08T00:46:06",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "They knew the pill was fake but their memory still improved",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
+      "summary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
+      "date": "2026-06-25T11:23:11",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Hawaii is turning ocean plastic and fishing nets into roads",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm",
+      "summary": "Hawaii researchers are giving old fishing nets and recycled plastic a second life by mixing them into asphalt roads. Early tests found these roads didn't release more plastic particles than standard pavement, with tire wear overwhelming any plastic signal from the recycled material. If future studies confirm the roads are durable, the technology could help tackle both marine pollution and overflowing landfills.",
+      "date": "2026-06-28T06:53:54",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Modern neuroscience is rediscovering an idea Freud had 130 years ago",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625014811.htm",
+      "summary": "What if Sigmund Freud was onto something that modern neuroscience is only now beginning to explain? A new paper argues that today's leading theory of the brain—as a prediction machine constantly anticipating the world—closely mirrors ideas psychoanalysis has explored for more than a century.",
+      "date": "2026-07-01T07:24:56",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Earth may have been seeding Venus with life for billions of years",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625014805.htm",
+      "summary": "A new study suggests Earth may have been sending tiny hitchhikers to Venus for billions of years. Researchers found that asteroid impacts could launch microbes into space, where some might survive the journey and end up suspended in Venus' clouds. If future missions detect life there, there's a surprising chance it didn't originate on Venus at all—it may have come from Earth.",
+      "date": "2026-06-26T03:22:17",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists stunned as bumble bees solve a classic intelligence test",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625014755.htm",
+      "summary": "Bumble bees astonished researchers by inventing a new way to reach a hidden reward, despite never being taught the trick. The discovery adds to growing evidence that these tiny insects are far smarter and more adaptable than once believed.",
+      "date": "2026-07-03T02:53:35",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
+      "summary": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity’s most advanced technologies. Now researchers are pushing its boundaries even further, with potential breakthroughs in energy, medicine, computing, and our understanding of the universe.",
+      "date": "2026-07-05T18:13:44",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Brain activity under anesthesia challenges what we know about consciousness",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260624025514.htm",
+      "summary": "The unconscious brain appears to be far more capable than scientists once believed. Researchers found that patients under general anesthesia could still process language at a sophisticated level, distinguishing nouns, verbs, and adjectives while listening to stories. Even more remarkably, neural activity showed signs of predicting upcoming words before they were heard. The results challenge traditional ideas about consciousness and hint at new possibilities for brain-computer interfaces.",
+      "date": "2026-06-29T02:55:24",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists want to quarantine alien life on the Moon before it reaches Earth",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623083144.htm",
+      "summary": "Scientists are calling for a lunar quarantine facility where samples from Mars, the Moon, and beyond would be examined before being brought to Earth. They warn that even a tiny alien microorganism could have unpredictable effects on Earth's ecosystems. By using robotic handling systems on the Moon, researchers hope to eliminate the risk of accidental exposure or release.",
+      "date": "2026-07-06T14:39:56",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Scientists resurrect 3.2-billion-year-old enzyme to reveal how life began on Earth",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623014024.htm",
+      "summary": "Researchers rebuilt long-extinct versions of a crucial enzyme that helps make nitrogen available to life, offering an unprecedented glimpse into Earth’s distant past. The breakthrough could aid the search for extraterrestrial life while helping scientists tackle future food-production challenges on Earth and beyond.",
+      "date": "2026-07-08T01:39:28",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "This newly discovered ballista spider catapults ants into a deadly trap",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260623014002.htm",
+      "summary": "Scientists have discovered a “ballista spider” that builds a spring-powered silk trap designed specifically to catch aggressive green tree ants. The ant unknowingly triggers the mechanism itself, launching into the spider’s web in one of nature’s most extraordinary hunting strategies.",
+      "date": "2026-06-26T05:29:02",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "From pet to pest, goldfish can wreck entire ecosystems",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622091524.htm",
+      "summary": "A new study reveals that goldfish can do far more than survive in the wild—they can fundamentally reshape freshwater ecosystems. Researchers found they cloud water, damage food webs, and hurt native fish populations, sometimes triggering major ecological shifts.",
+      "date": "2026-06-26T17:45:17",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Butterfly that barely ages could help unlock longevity secrets",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260622014302.htm",
+      "summary": "Scientists discovered that Heliconius butterflies have evolved an extraordinary lifespan, living several times longer than closely related species. Even more surprising, some show little sign of physical decline as they age. Their unusual pollen-feeding lifestyle may play a role, but the research suggests deeper evolutionary changes are also helping them stay healthy for longer.",
+      "date": "2026-06-22T10:30:08",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "This four-winged dinosaur may have terrorized Earth's earliest birds",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621060311.htm",
+      "summary": "A newly discovered feathered dinosaur called Jian changmaensis may be the missing predator responsible for mysterious piles of crushed prehistoric bird bones in China. The four-winged glider, a close cousin of Velociraptor, helps reveal how early birds and their dinosaur relatives shared the same ancient landscape.",
+      "date": "2026-06-23T12:58:10",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A rare interstellar visitor triggered a SETI search for alien technology",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260621060309.htm",
+      "summary": "SETI scientists searched the interstellar object 3I/ATLAS for radio signals that could indicate extraterrestrial technology but found nothing beyond human-made interference. Even so, the rapid-response observations helped confirm the object's natural origin and showcased how future interstellar visitors can be investigated for signs of intelligent life.",
+      "date": "2026-06-23T14:49:45",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Yale study finds nearly half of older adults improved with age",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260620100428.htm",
+      "summary": "A long-term Yale study is challenging one of the biggest myths about aging. Nearly half of adults over 65 improved physically, mentally, or both over time, despite the common belief that aging means constant decline. Researchers found that people with more positive attitudes about getting older were significantly more likely to show these gains.",
+      "date": "2026-06-21T10:02:10",
+      "source": "ScienceDaily",
+      "scrape_method": "RSS"
+    }
+  ]
+}

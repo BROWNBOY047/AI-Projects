@@ -1,0 +1,1732 @@
+{
+  "metadata": {
+    "source": "POLITICO",
+    "total_scraped": 150,
+    "target": 150,
+    "scraping_duration": 9.89,
+    "scraped_at": "2026-07-27T00:30:16.403327",
+    "methods_used": [
+      "RSS"
+    ]
+  },
+  "articles": [
+    {
+      "title": "How Republicans plan to conquer Troy",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/26/how-republicans-plan-to-conquer-troy-01012294",
+      "summary": "And Trump is holding off on plans to potentially sharply escalate the war in Iran ...",
+      "date": "2026-07-26T16:31:33",
+      "author": "By Irie Sentner and Ali Bianco",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The coronation of Troy Jackson",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/25/the-coronation-of-troy-jackson-01012132",
+      "summary": "And JMart interviews Former Wisconsin Democratic chair Ben Wikler ...",
+      "date": "2026-07-25T15:58:13",
+      "author": "By Irie Sentner",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Dinner with a side of ‘vicious’",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/24/dinner-with-a-side-of-vicious-01011141",
+      "summary": "No summary available",
+      "date": "2026-07-24T10:33:02",
+      "author": "By Dasha Burns, Adam Wren and Will Steakin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Paris Hilton and the politics of DEFIANCE",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/23/paris-hilton-and-the-politics-of-defiance-01009283",
+      "summary": "No summary available",
+      "date": "2026-07-23T10:25:09",
+      "author": "By Will Steakin, Adam Wren and Dasha Burns",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Trump’s Iran trap",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/22/trumps-iran-trap-01007529",
+      "summary": "No summary available",
+      "date": "2026-07-22T10:30:55",
+      "author": "By Dasha Burns, Adam Wren and Will Steakin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Trump to Hill: I’m not that into you",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/21/trump-to-hill-im-not-that-into-you-01005915",
+      "summary": "No summary available",
+      "date": "2026-07-21T10:29:14",
+      "author": "By Adam Wren, Dasha Burns and Will Steakin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Backstage with AOC in Michigan",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/20/backstage-with-aoc-in-michigan-01004744",
+      "summary": "No summary available",
+      "date": "2026-07-20T10:26:14",
+      "author": "By Adam Wren, Dasha Burns and Will Steakin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Playbook Special Edition: Meet Our New Authors",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/19/playbook-special-edition-meet-our-new-authors-01004598",
+      "summary": "No summary available",
+      "date": "2026-07-19T23:10:23",
+      "author": "By Adam Wren, Dasha Burns and Will Steakin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Maine Dems scramble for a Collins competitor",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/19/maine-dems-scramble-for-a-collins-competitor-01004366",
+      "summary": "And the Iran war ramps up after new U.S. troop deaths.",
+      "date": "2026-07-19T15:33:13",
+      "author": "By Eli Okun",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Democrats get deja vu on ICE",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/18/democrats-get-deja-vu-on-ice-01004186",
+      "summary": "And the latest fallout from Trump's primetime address on elections ...",
+      "date": "2026-07-18T14:53:23",
+      "author": "By Ali Bianco",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Trump’s anticlimax, and Katz vs. Katz",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/17/trumps-anticlimax-and-katz-vs-katz-01002688",
+      "summary": "No summary available",
+      "date": "2026-07-17T10:20:59",
+      "author": "By Will Steakin and Kyle Cheney",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Trump puts Republicans in a primetime bind",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/16/trump-puts-republicans-in-a-primetime-bind-01000513",
+      "summary": "No summary available",
+      "date": "2026-07-16T10:22:53",
+      "author": "By Dasha Burns and Adam Wren",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The new Darline of the Senate",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/15/the-new-darline-of-the-senate-00998471",
+      "summary": "No summary available",
+      "date": "2026-07-15T10:16:00",
+      "author": "By Adam Wren and Dasha Burns",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Where the Democratic civil war goes next",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/14/where-the-democratic-civil-war-goes-next-00995888",
+      "summary": "No summary available",
+      "date": "2026-07-14T10:10:07",
+      "author": "By Adam Wren and Dasha Burns",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Washington wonders at Graham replacement",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/13/washington-wonders-at-graham-replacement-00994396",
+      "summary": "No summary available",
+      "date": "2026-07-13T10:10:05",
+      "author": "By Adam Wren and Dasha Burns",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "What Lindsey Graham leaves behind",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/12/what-lindsey-graham-leaves-behind-00994155",
+      "summary": "No summary available",
+      "date": "2026-07-12T16:33:46",
+      "author": "By Ali Bianco",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Maine’s vetting reckoning",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/11/maines-vetting-reckoning-00993905",
+      "summary": "And Trump intensifies his threats against Iran ...",
+      "date": "2026-07-11T14:45:09",
+      "author": "By Irie Sentner",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Hot Dem Summer faces the heat",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/10/hot-dem-summer-faces-the-heat-00992812",
+      "summary": "No summary available",
+      "date": "2026-07-10T10:08:02",
+      "author": "By Will Steakin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The final hours in Platner’s bunker",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/09/the-final-hours-in-platners-bunker-00991490",
+      "summary": "No summary available",
+      "date": "2026-07-09T10:11:39",
+      "author": "By Jack Blanchard and Dasha Burns",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Inside the battle for Maine",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/08/inside-the-battle-for-maine-00989731",
+      "summary": "No summary available",
+      "date": "2026-07-08T10:16:56",
+      "author": "By Jack Blanchard and Dasha Burns",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The dam breaks on Platner",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/07/the-dam-breaks-on-platner-00988487",
+      "summary": "No summary available",
+      "date": "2026-07-07T10:12:14",
+      "author": "By Jack Blanchard and Dasha Burns",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "What Trump wants out of NATO",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/06/what-trump-wants-out-of-nato-00987558",
+      "summary": "No summary available",
+      "date": "2026-07-06T10:11:19",
+      "author": "By Jack Blanchard and Dasha Burns",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.488637",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Red, white, blues — and ‘oohs and aahs’",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/05/red-white-blues-and-oohs-and-aahs-00987200",
+      "summary": "No summary available",
+      "date": "2026-07-05T15:54:43",
+      "author": "By Erin Doherty",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.489633",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "GOP hopes for a Trump Accounts boost",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/04/gop-hopes-for-a-trump-accounts-boost-00987011",
+      "summary": "And Bill Pulte's firings begin.",
+      "date": "2026-07-04T14:45:46",
+      "author": "By Eli Okun",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.489633",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "How Trump took over America’s 250th",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/03/how-trump-took-over-americas-250th-00986849",
+      "summary": "No summary available",
+      "date": "2026-07-03T12:15:04",
+      "author": "By Sophia Cai",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.489633",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "An alternate MAGA view of the new left",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/02/an-alternate-maga-view-of-the-new-left-00985350",
+      "summary": "No summary available",
+      "date": "2026-07-02T10:08:20",
+      "author": "By Jack Blanchard and Dasha Burns",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.489633",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The insurgent left’s newest star",
+      "url": "https://www.politico.com/newsletters/playbook/2026/07/01/the-insurgent-lefts-newest-star-00983534",
+      "summary": "No summary available",
+      "date": "2026-07-01T10:15:00",
+      "author": "By Jack Blanchard and Dasha Burns",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.489633",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The Supreme Court justices to watch today",
+      "url": "https://www.politico.com/newsletters/playbook/2026/06/30/the-supreme-court-justices-to-watch-today-00981451",
+      "summary": "No summary available",
+      "date": "2026-06-30T10:02:22",
+      "author": "By Jack Blanchard and Dasha Burns",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.489633",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Another week that could electrify the left",
+      "url": "https://www.politico.com/newsletters/playbook/2026/06/29/another-week-that-could-electrify-the-left-00979670",
+      "summary": "No summary available",
+      "date": "2026-06-29T10:04:38",
+      "author": "By Jack Blanchard and Dasha Burns",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.489633",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The Dem primary on ICE",
+      "url": "https://www.politico.com/newsletters/playbook/2026/06/28/the-dem-primary-on-ice-00979258",
+      "summary": "And the latest after the Louisiana Senate runoff last night ...",
+      "date": "2026-06-28T15:25:25",
+      "author": "By Ali Bianco",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:08.489633",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "New York Democrats face a generational reckoning",
+      "url": "https://www.politico.com/news/2026/07/26/new-york-democrats-face-a-generational-reckoning-01011880",
+      "summary": "Left-leaning young voters are dominating Democratic primaries, forcing longtime incumbents to shift.",
+      "date": "2026-07-26T18:00:00",
+      "author": "Nick Reisman",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Trump leaves Florida Republicans guessing ahead of August primaries",
+      "url": "https://www.politico.com/news/2026/07/26/florida-trump-house-endorsements-01011185",
+      "summary": "As Florida's congressional delegation potentially undergoes a massive transformation, the president's endorsement could prove definitive.",
+      "date": "2026-07-26T14:00:00",
+      "author": "Gary Fineout",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Troy Jackson, unlike Graham Platner, is staying laser-focused on Susan Collins",
+      "url": "https://www.politico.com/news/2026/07/26/troy-jackson-susan-collins-messaging-platner-01012178",
+      "summary": "The Maine progressive former state senator is quickly trying to contrast himself with his GOP rival.",
+      "date": "2026-07-26T11:00:00",
+      "author": "Andrew Howard",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "How Republicans plan to conquer Troy Jackson",
+      "url": "https://www.politico.com/news/2026/07/26/how-republicans-conquer-troy-jackson-01012340",
+      "summary": "Republicans have 100 days to sink the newly-minted Democratic Maine Senate nominee — and they're throwing everything they have at him.",
+      "date": "2026-07-26T17:10:59",
+      "author": "Irie Sentner and Ali Bianco",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Activists ‘throwing everything' they can against abortion turn to wastewater data",
+      "url": "https://www.politico.com/news/2026/07/26/abortion-opponents-new-weapon-wastewater-data-01011537",
+      "summary": "Anti-abortion activists are hoping to get the attention of an administration that has embraced theories shunned by mainstream science about Tylenol, peptides and vaccines.",
+      "date": "2026-07-26T14:00:00",
+      "author": "Alice Miranda Ollstein and Ariel Wittenberg",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Big Tech’s Money Men Don’t Care About the Backlash",
+      "url": "https://www.politico.com/news/magazine/2026/07/26/ai-super-pac-operatives-profile-01008227",
+      "summary": "Meet the two political brawlers unleashing the AI industry’s massive cash on the midterms.",
+      "date": "2026-07-26T11:00:00",
+      "author": "Calder McHugh",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Gulf countries want the war to end, but can’t agree on how",
+      "url": "https://www.politico.com/news/2026/07/25/iran-war-gulf-alliance-01012083",
+      "summary": "Some Arab states are \"more on the same page with the U.S. mission than others,” said a Republican aide.",
+      "date": "2026-07-25T20:00:00",
+      "author": "Daniella Cheslow",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "They Gave MAGA a Safe Haven. Now They’re in Retreat.",
+      "url": "https://www.politico.com/news/magazine/2026/07/25/hungary-maga-trump-orban-01010018",
+      "summary": "Will the alliance between MAGA and Hungary’s far right survive defeat?",
+      "date": "2026-07-25T11:00:00",
+      "author": "Marc Felix Serrao",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Can This Man Save Democrats?",
+      "url": "https://www.politico.com/news/magazine/2026/07/25/democrats-election-ben-wikler-this-is-the-plan-01011523",
+      "summary": "Democratic guru Ben Wikler explains why state races, not Washington, will determine his party's future.",
+      "date": "2026-07-25T11:00:00",
+      "author": "Jonathan Martin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "German minister calls deadly Berlin Pride assault ‘Islamist terrorist attack’",
+      "url": "https://www.politico.eu/article/germanys-interior-minister-calls-deadly-berlin-pride-assault-islamist-terrorist-attack/",
+      "summary": "Police are conducting major manhunt for the suspected assailant, identified as a 21-year-old German of Lebanese descent.",
+      "date": "2026-07-26T14:10:55",
+      "author": "Ferdinand Knapp",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "What California's Latino leaders want from Xavier Becerra",
+      "url": "https://www.politico.com/news/2026/07/25/latino-leaders-start-lobbying-campaign-becerra-01012055",
+      "summary": "The policy agenda pitched to the likely next governor, who would be the first Latino official in modern history to hold the office, includes constitutionalizing state benefits for immigrants.",
+      "date": "2026-07-25T14:00:00",
+      "author": "Marisa Guerra Echeverria",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Emails show how Virginia regulators downplayed data center health concerns",
+      "url": "https://www.politico.com/news/2026/07/25/virginia-regulators-data-center-air-pollution-health-environment-01004442",
+      "summary": "The Virginia Department of Environmental Quality stepped into a fight over powering AI facilities with natural gas turbines. It could shape the industry’s future.",
+      "date": "2026-07-25T14:00:00",
+      "author": "Ariel Wittenberg",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "‘A politically impossible situation’: New poll shows Trump voters losing patience with Iran war",
+      "url": "https://www.politico.com/news/2026/07/22/poll-maga-souring-iran-war-costs-trump-01006976",
+      "summary": "The share of MAGA voters who think the war is worth the economic cost has fallen to roughly over a third, down from 50 percent in May, the POLITICO Poll found.",
+      "date": "2026-07-22T09:55:00",
+      "author": "Megan Messerly",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A growing political reckoning is coming for data centers, POLITICO Poll shows",
+      "url": "https://www.politico.com/news/2026/07/21/poll-data-centers-democrats-moratorium-01001799",
+      "summary": "A new POLITICO Poll found that Americans’ attitudes toward data centers have grown increasingly sour and politically polarized in the past six months.",
+      "date": "2026-07-21T09:50:00",
+      "author": "Katherine Long and Jessie Blaeser",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Poll: Republicans and Democrats agree on 1 big election issue",
+      "url": "https://www.politico.com/news/2026/05/09/poll-americans-say-too-much-money-in-politics-00912455",
+      "summary": "As campaign spending hits record highs, voters across parties question how deeply money shapes elections.",
+      "date": "2026-05-09T14:00:00",
+      "author": "Anna Wiederkehr",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "July 2026",
+      "url": "https://www.politico.com/cartoons/2026/07/01/july-2026-00983892",
+      "summary": "Political cartoons from the desk of Matt Wuerker",
+      "date": "2026-07-01T16:56:58",
+      "author": "",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "‘Pulte got really scared’: Inside the White House debate over Trump’s elections speech",
+      "url": "https://www.politico.com/news/2026/07/18/pulte-got-really-scared-inside-the-white-house-debate-over-trumps-elections-speech-01003920",
+      "summary": "Acting Director of National Intelligence Bill Pulte, a Trump favorite, had at one point pushed to reveal the names of intelligence officials accused of concealing election interference from the president.",
+      "date": "2026-07-18T11:01:00",
+      "author": "Dasha Burns",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "‘Professional malpractice’: The Platner fallout engulfs the operatives who made him",
+      "url": "https://www.politico.com/news/2026/07/17/platner-is-finished-does-the-same-fate-await-the-out-of-state-consultants-who-recruited-him-01002652",
+      "summary": "A string of early missteps, like rejecting an offer for a deeper vetting of Platner, has cast doubt over his young consultants’ future in Democratic politics.",
+      "date": "2026-07-17T09:55:00",
+      "author": "Will Steakin and Chris Sommerfeldt",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Newsom's Silicon Valley dilemma comes to a head: Friend or foe?",
+      "url": "https://www.politico.com/news/2026/07/17/newsoms-silicon-valley-dilemma-comes-to-a-head-friend-or-foe-01002515",
+      "summary": "A wave of AI and social media bills is heading toward the governor's desk in his final months in office. How he handles them will help shape his legacy, and his 2028 ambitions.",
+      "date": "2026-07-17T09:00:00",
+      "author": "Chase DiFeliciantonio",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "House Dem challengers are printing money",
+      "url": "https://www.politico.com/news/2026/07/16/house-dem-challengers-are-printing-money-01000665",
+      "summary": "A POLITICO analysis of new campaign finance data found seven of the 10 top House battleground fundraisers were Democratic challengers.",
+      "date": "2026-07-16T16:16:49",
+      "author": "Jessica Piper and Andrew Howard",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "‘No amnesty!’: Migrant farmworker bill opens major rift within GOP",
+      "url": "https://www.politico.com/news/2026/07/22/no-amnesty-migrant-farmworker-bill-opens-major-rift-within-gop-01007072",
+      "summary": "Prominent immigration hawks are furious over a proposal that would open a path to temporary legal status for undocumented migrants who work in the agriculture industry.",
+      "date": "2026-07-22T14:10:19",
+      "author": "Rachel Shin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Fusion is Ready. Is Trump’s Washington?",
+      "url": "https://www.politico.com/news/magazine/2026/07/24/nuclear-fusion-commonwealth-washington-massachusetts-01010625",
+      "summary": "Companies chasing the power of the sun say they're ready to scale. Convincing Washington to spend billions could prove harder than building the reactor.",
+      "date": "2026-07-24T09:00:00",
+      "author": "Joseph J. Schatz",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.526780",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A New Report Offers a Stark Warning to Centrists",
+      "url": "https://www.politico.com/news/magazine/2026/07/24/centrism-france-marine-le-pen-column-01008580",
+      "summary": "An intensive research project in France finds the far right on the march, with voters viewing the political center as vapid and discredited.",
+      "date": "2026-07-24T04:30:00",
+      "author": "Alexander Burns",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.527742",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "‘Cancer Doesn't Care What Party You Belong To’: Poisoned Water Is Turning This Rural State Bluer",
+      "url": "https://www.politico.com/news/magazine/2026/07/19/iowa-water-democrats-agriculture-00992753",
+      "summary": "Democrats see an opening in rural states for the first time in decades. In Iowa, it’s about water.",
+      "date": "2026-07-19T11:00:00",
+      "author": "Tom Philpott and Nina B. Elkadi",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.527742",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "America First, Soccer Second",
+      "url": "https://www.politico.com/news/magazine/2026/07/19/maga-love-soccer-trump-world-cup-america-first-01002327",
+      "summary": "Did MAGA ever really fall in love with the world’s game?",
+      "date": "2026-07-19T11:00:00",
+      "author": "Adam Wren",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.527742",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "We Went to a Yacht Party for the Most Pro-Deportation People in DC",
+      "url": "https://www.politico.com/news/magazine/2026/07/17/mass-deportation-coalition-boat-yacht-party-potomac-river-01003405",
+      "summary": "The Mass Deportation Coalition is quite literally making waves in Washington.",
+      "date": "2026-07-17T19:32:48",
+      "author": "Samuel Benson",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.527742",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "How Gettysburg Became a Refuge for Conservatives Battered by Trump-Era Strife",
+      "url": "https://www.politico.com/news/magazine/2025/01/19/civil-war-reenactors-gettysburg-00199132",
+      "summary": "It might take a mock battlefield to solve America’s political divisions.",
+      "date": "2025-01-19T21:00:00",
+      "author": "Virginia Heffernan",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.527742",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The Most Important Words in the Battle Over AI",
+      "url": "https://www.politico.com/news/magazine/2026/07/17/ai-safety-regulation-debate-factions-00990453",
+      "summary": "A field guide to the debate over AI safety.",
+      "date": "2026-07-17T09:01:00",
+      "author": "Calder McHugh, Aaron Mak, Brendan Bordelon, Gabby Miller and POLITICO Visuals",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.527742",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The Last Time America Got It Right, According to MAGA’s Next Generation",
+      "url": "https://www.politico.com/news/magazine/2026/07/12/make-america-the-90s-again-00987696",
+      "summary": "The Republicans running Donald Trump’s Washington grew up on the rebellious culture of the 1990s — discarding its politics while keeping its defiance.",
+      "date": "2026-07-12T11:00:00",
+      "author": "Megan Messerly",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.527742",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Lindsey O. Graham, A Politician in Full",
+      "url": "https://www.politico.com/news/magazine/2026/07/13/lindsey-graham-death-politics-trump-00994275",
+      "summary": "A look back at one of the Senate's most influential and complicated figures.",
+      "date": "2026-07-13T09:00:00",
+      "author": "Jonathan Martin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.527742",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The Rise and Fall of the Fracking Phenomenon",
+      "url": "https://www.politico.com/news/magazine/2026/07/11/fracking-energy-00992354",
+      "summary": "The fracking boom remade the U.S. economy and global energy markets. It also left behind a complicated legacy of winners, losers and lasting political fights.",
+      "date": "2026-07-11T11:00:00",
+      "author": "Mike Soraghan",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.527742",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "How Candace Owens Became TPUSA’s Worst Enemy",
+      "url": "https://www.politico.com/news/magazine/2026/07/11/candace-owens-charlie-kirk-conspiracy-tpusa-tyler-robinson-trial-00989161",
+      "summary": "In an age of conspiracism, some believe the truth is whatever gets the most views.",
+      "date": "2026-07-11T11:00:00",
+      "author": "Samuel Benson and Andrew Howard",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.527742",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "‘Just Not Accurate’: Trump’s Outgoing Antitrust Chief Hits Back",
+      "url": "https://www.politico.com/news/magazine/2026/07/10/trump-antitrust-paramount-omeed-assefi-interview-00983592",
+      "summary": "In an exclusive exit interview, Omeed Assefi opens up about the Justice Department’s antitrust playbook and its most controversial decisions.",
+      "date": "2026-07-10T09:00:00",
+      "author": "Yasmin Khorram",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.527742",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Trump Brushed Off His Scandals. Here’s Why Platner Couldn’t.",
+      "url": "https://www.politico.com/news/magazine/2026/07/10/platner-trump-scandals-rules-democrats-00992633",
+      "summary": "Why Democrats can't play by Trump rules.",
+      "date": "2026-07-10T09:00:00",
+      "author": "John F. Harris",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.527742",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The Secret Mission of the World's Weirdest Regime to Trump's Backyard",
+      "url": "https://www.politico.com/news/magazine/2026/06/26/turkmenistan-trump-secret-mission-00969739",
+      "summary": "The leader of Turkmenistan missed Donald Trump, but he may have gotten what he came for.",
+      "date": "2026-06-26T09:00:00",
+      "author": "Ilan Greenberg",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.527742",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "North Dakota Power Trio Opens Up About Trump, the Filibuster and Teddy Roosevelt",
+      "url": "https://www.politico.com/news/magazine/2026/07/08/north-dakota-theodore-roosevelt-library-on-the-road-00989413",
+      "summary": "Doug Burgum, Kelly Armstrong and Kevin Cramer discuss the state's biggest new landmark and the politics of the moment.",
+      "date": "2026-07-08T11:25:32",
+      "author": "Jonathan Martin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.527742",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Poll: Republicans’ gas price problem is even worse than it seems",
+      "url": "https://www.politico.com/news/2026/07/24/poll-gas-prices-republicans-midterms-trump-01008868",
+      "summary": "Three in five Americans believe gas prices in their area have risen by more than they actually have, according to a POLITICO analysis.",
+      "date": "2026-07-24T09:00:00",
+      "author": "Jessie Blaeser",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:09.527742",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Comer: 1 NDA produced by Leon Black to House Oversight ‘unacceptable’",
+      "url": "https://www.politico.com/live-updates/2026/07/24/congress/comer-unhappy-that-leon-black-produced-just-one-nda-to-house-oversight-01012064",
+      "summary": "The House Oversight Committee’s subpoena demanded all NDAs for which Black is a party to.",
+      "date": "2026-07-24T23:40:24",
+      "author": "By Chris Marquette",
+      "categories": [
+        "Congress, Congress"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Inside Trump officials' quiet maneuvering in Louisiana’s redistricting shakeup",
+      "url": "https://www.politico.com/live-updates/2026/07/24/congress/trump-endorsement-louisiana-redistricting-01012000",
+      "summary": "The White House is trying to discourage a previously endorsed candidate from switching districts.",
+      "date": "2026-07-24T21:33:16",
+      "author": "By Meredith Lee Hill",
+      "categories": [
+        "Congress, Congress, Louisiana, 2026 Elections"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Trump to Senate GOP: Adopt budget blueprint before August break",
+      "url": "https://www.politico.com/live-updates/2026/07/24/congress/trumps-senate-demand-reconciliation-save-america-act-august-01011588",
+      "summary": "Senate Republicans don’t currently expect the resolution to come up in the next two weeks.",
+      "date": "2026-07-24T18:43:59",
+      "author": "By Jordain Carney",
+      "categories": [
+        "Congress, Congress"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Capitol agenda: A grueling summer campaign begins",
+      "url": "https://www.politico.com/live-updates/2026/07/24/congress/grueling-summer-campaign-ahead-01011118",
+      "summary": "House members leaving Washington for recess acknowledged they’re going to need to ease their constituents' worries about the Iran war and affordability.",
+      "date": "2026-07-24T12:00:00",
+      "author": "By Calen Razor",
+      "categories": [
+        "Congress, Congress, Russia, Iran War 2026"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "House members brace for unfriendly questions on the campaign trail",
+      "url": "https://www.politico.com/news/2026/07/24/house-members-stare-down-a-grueling-summer-on-the-campaign-trail-01011000",
+      "summary": "“We have a hell of a lot of work to do,” one House Republican said.",
+      "date": "2026-07-24T08:45:00",
+      "author": "By Mia McCarthy, Meredith Lee Hill and Riley Rogerson",
+      "categories": [
+        "Congress, Congress"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "‘A circular firing squad’: Senate GOP pushes back on Trump’s tiff with Thune",
+      "url": "https://www.politico.com/news/2026/07/23/trump-john-thune-senate-tension-01010746",
+      "summary": "The White House this week dialed up its rhetoric against the Senate majority leader.",
+      "date": "2026-07-23T23:25:43",
+      "author": "By Jordain Carney, Alex Gangitano and Megan Messerly",
+      "categories": [
+        "White House, Congress, Donald Trump, 2026 Elections"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Jes Staley tells House Oversight he spoke with JPMorgan CEO about Epstein's crimes",
+      "url": "https://www.politico.com/live-updates/2026/07/23/congress/jes-staleys-epstein-testimony-01010693",
+      "summary": "Democrats say they'll call Staley back to testify under oath if their party wins the majority in the midterms.",
+      "date": "2026-07-23T20:59:23",
+      "author": "By Chris Marquette",
+      "categories": [
+        "Congress, Congress"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Ted Cruz eyes bill to address ‘catastrophic risk’ caused by AI",
+      "url": "https://www.politico.com/live-updates/2026/07/23/congress/cruz-eyes-catastrophic-risk-01010231",
+      "summary": "It could be included on the agenda of a pending Commerce Committee markup of AI legislation.",
+      "date": "2026-07-23T18:20:10",
+      "author": "By Kelsey Brugger",
+      "categories": [
+        "Congress, Congress"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Senate adding Iran sanctions to Russia bill",
+      "url": "https://www.politico.com/live-updates/2026/07/23/congress/senate-iran-sanctions-russia-bill-01009908",
+      "summary": "President Donald Trump had urged Congress to add in penalties against Iran.",
+      "date": "2026-07-23T16:55:16",
+      "author": "By Jordain Carney",
+      "categories": [
+        "Congress, Congress, Foreign Affairs"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Mark Sanford launches Senate bid in South Carolina special election",
+      "url": "https://www.politico.com/live-updates/2026/07/23/congress/mark-sanford-senate-bid-south-carolina-01009841",
+      "summary": "The former representative, South Carolina governor and presidential candidate enters a crowded field to replace the late Sen. Lindsey Graham.",
+      "date": "2026-07-23T16:01:01",
+      "author": "By Samuel Benson",
+      "categories": [
+        "Congress, Congress, Mark Sanford, Lindsey Graham, Darline Graham"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "‘Figure out a way to get it done’: Scalise warns pressure is building on Senate GOP to move on reconciliation",
+      "url": "https://www.politico.com/news/2026/07/23/thune-scalise-trump-reconciliation-01009820",
+      "summary": "The House Majority leader also said Senate Republicans no longer have “the excuse of the filibuster.”",
+      "date": "2026-07-23T15:25:45",
+      "author": "By Meredith Lee Hill and Jordain Carney",
+      "categories": [
+        "Congress, Congress, Steve Scalise, Senate Republicans, John Thune, Reconciliation, Donald Trump"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Vote on health emergency preparedness nominee delayed",
+      "url": "https://www.politico.com/live-updates/2026/07/23/congress/kaufman-aspr-nomination-pulled-01009330",
+      "summary": "Sean Kaufman's history of questioning vaccine safety took center stage at his confirmation hearing last week.",
+      "date": "2026-07-23T14:01:37",
+      "author": "By Sophie Gardner",
+      "categories": [
+        "Congress, HHS, Presidential Nominee, Nominees, Health Care, Bill Cassidy, Congress"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Capitol agenda: House GOP budget faces Senate reality check",
+      "url": "https://www.politico.com/live-updates/2026/07/23/congress/house-gop-budget-faces-senate-reality-check-01009275",
+      "summary": "Senate Majority Leader John Thune has been frank about the rocky road the reconciliation effort faces and careful not to guarantee he’ll be successful.",
+      "date": "2026-07-23T12:00:00",
+      "author": "By Calen Razor",
+      "categories": [
+        "Congress, Congress, Artificial Intelligence, Iran War 2026"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Mike Johnson’s budget blueprint faces Senate GOP buzzsaw",
+      "url": "https://www.politico.com/news/2026/07/23/john-thune-budget-reconciliation-trump-01009256",
+      "summary": "“I don’t think Senator Thune’s going to take it up,” Sen. John Kennedy told reporters this week of the House fiscal blueprint.",
+      "date": "2026-07-23T08:45:00",
+      "author": "By Jordain Carney",
+      "categories": [
+        "Congress, Congress, John Thune, Mike Johnson , Budget, GOP, Senate"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Trump backs Iraq’s prime minister. Some Republicans want to see results.",
+      "url": "https://www.politico.com/news/2026/07/22/ali-al-zaidi-trump-iraq-iran-01009122",
+      "summary": "The GOP lawmakers are pressing Iraq’s new leader for major changes, including the disarming of Iran-backed militias in the country.",
+      "date": "2026-07-23T00:04:00",
+      "author": "By Jerry Wu",
+      "categories": [
+        "Foreign Affairs, Foreign Affairs, Congress, Iraq, US-Iran attacks, Iran War 2026, Iran, Tim Burchett, Baghdad"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Lisa Murkowski is undecided on Blanche’s confirmation. Her state is getting a windfall from DOJ.",
+      "url": "https://www.politico.com/news/2026/07/22/lisa-murkowski-todd-blanche-confirmation-alaska-01009024",
+      "summary": "The senior Republican senator from Alaska has a history of leveraging her vote to get wins for her state.",
+      "date": "2026-07-22T22:07:54",
+      "author": "By Kyle Cheney, Chris Marquette and Josh Gerstein",
+      "categories": [
+        "Congress, Congress"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Senate Commerce pushes AI markup plan to August",
+      "url": "https://www.politico.com/live-updates/2026/07/22/congress/commerce-postpones-ai-markup-01008950",
+      "summary": "The much anticipated markup may include various artificial intelligence and online safety measures.",
+      "date": "2026-07-22T21:51:06",
+      "author": "By Kelsey Brugger",
+      "categories": [
+        "Congress, Congress, Technology, Artificial Intelligence"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "House adopts budget framework for $95B party-line package",
+      "url": "https://www.politico.com/news/2026/07/22/house-adopts-budget-framework-for-95b-party-line-package-01008630",
+      "summary": "Now the onus is on Senate Republicans to bless another shot at skirting the filibuster.",
+      "date": "2026-07-22T21:03:47",
+      "author": "By Katherine Tully-McManus and Jennifer Scholtes",
+      "categories": [
+        "Congress, Congress"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "NASA’s Isaacman isn’t asking the GOP for more money",
+      "url": "https://www.politico.com/live-updates/2026/07/22/congress/nasa-budget-isaacman-gop-01008503",
+      "summary": "NASA wants to return to the moon and go even further, but the new agency head said he’s got the cash to get there.",
+      "date": "2026-07-22T20:13:11",
+      "author": "By Audrey Decker and Mia McCarthy",
+      "categories": [
+        "Congress, Congress, Defense, NASA"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Health Committee advances Collins’ insulin price cap over GOP objections",
+      "url": "https://www.politico.com/live-updates/2026/07/22/congress/insulin-collins-maine-senate-midterms-01008238",
+      "summary": "The bill would limit the private insurance price for the diabetes drug to $35. Its approval by the GOP-led panel was highly unusual.",
+      "date": "2026-07-22T19:08:55",
+      "author": "By Simon J. Levien",
+      "categories": [
+        "Congress, Health Care, Diabetes, Pharmaceuticals, Insurers, Insurance, Susan Collins, Bill Cassidy, Tammy Baldwin, Senate: Maine, Midterms, Midterm Elections, Congress"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Republican Jewish Coalition endorses Darline Graham",
+      "url": "https://www.politico.com/live-updates/2026/07/22/congress/republican-jewish-coalition-endorses-darline-graham-01008042",
+      "summary": "The pro-Israel movement trusts Graham to carry on her brother’s legacy on the Middle East.",
+      "date": "2026-07-22T17:30:00",
+      "author": "By Samuel Benson",
+      "categories": [
+        "Congress, Congress, 2026 Elections, Darline Graham, Lindsey Graham, Israel, RJC"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Republicans release new crypto bill text, with Trump-blessed ethics provision included",
+      "url": "https://www.politico.com/live-updates/2026/07/22/congress/gop-crypto-bill-ethics-provision-01007946",
+      "summary": "Senate GOP leaders are eyeing a floor vote as soon as next week.",
+      "date": "2026-07-22T16:48:16",
+      "author": "By Jasper Goodman",
+      "categories": [
+        "Congress, Congress, Financial Services, cryptocurrency"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Darline Graham says her brother’s work ‘took him from us’",
+      "url": "https://www.politico.com/live-updates/2026/07/22/congress/grahams-cause-of-death-01007853",
+      "summary": "The Senate Budget Committee met for the first time since the death of the panel’s chair.",
+      "date": "2026-07-22T16:39:29",
+      "author": "By Jennifer Scholtes",
+      "categories": [
+        "Congress, Congress"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Maine Democrat Troy Jackson has raised $1M for his Senate bid so far",
+      "url": "https://www.politico.com/live-updates/2026/07/22/congress/troy-jackson-raises-1-million-maine-senate-01007681",
+      "summary": "Jackson has to catch up fast to GOP Sen. Susan Collins, who’s sitting on an $11 million warchest.",
+      "date": "2026-07-22T15:18:52",
+      "author": "By Andrew Howard",
+      "categories": [
+        "Congress, Congress, Maine, 2026 Elections"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Arrington, eager to appease fiscal hawks, proposes $28B boost to health fraud busting",
+      "url": "https://www.politico.com/live-updates/2026/07/22/congress/arrington-7-billion-boost-to-health-fraud-busting-01007301",
+      "summary": "The bill's introduction comes as fiscal hawks are livid over a lack of pay-fors in a major new spending bill.",
+      "date": "2026-07-22T14:58:02",
+      "author": "By Robert King",
+      "categories": [
+        "Congress, Congress"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.455084",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Trump’s pick for No. 2 post at OMB clinches approval in committees",
+      "url": "https://www.politico.com/live-updates/2026/07/22/congress/omb-nominee-advances-01007549",
+      "summary": "Senate Republicans are working to confirm the nominee atop the \"nerve center\" of the federal government.",
+      "date": "2026-07-22T13:49:55",
+      "author": "By Jennifer Scholtes",
+      "categories": [
+        "Congress, Congress"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.456073",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Capitol agenda: GOP defectors threaten budget vote",
+      "url": "https://www.politico.com/live-updates/2026/07/22/congress/gop-defectors-threaten-budget-plan-01007514",
+      "summary": "Speaker Mike Johnson will try to steer his chamber’s razor-thin majority toward backing the $95 billion funding plan for the Iran war and farm aid.",
+      "date": "2026-07-22T12:00:00",
+      "author": "By Meredith Lee Hill, Mia McCarthy and Calen Razor",
+      "categories": [
+        "Congress, Congress"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.456073",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Who is Darline Graham? Her colleagues say they are still learning.",
+      "url": "https://www.politico.com/news/2026/07/22/darline-graham-lindsey-graham-senate-legacy-primary-01007458",
+      "summary": "The sister of late-Sen. Lindsey Graham is running to serve in the Senate in her own right — while working to finish the work her brother started.",
+      "date": "2026-07-22T08:45:00",
+      "author": "By Jordain Carney",
+      "categories": [
+        "Congress, Congress, Lindsey Graham, Darline Graham, Donald Trump, South Carolina"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.456073",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "House passes stopgap funding bill, months before shutdown deadline",
+      "url": "https://www.politico.com/live-updates/2026/07/21/congress/house-passes-stopgap-funding-bill-months-before-shutdown-deadline-01007348",
+      "summary": "The move is meant to pressure Senate Democrats to quickly back a plan to avert a funding lapse.",
+      "date": "2026-07-22T02:17:18",
+      "author": "By Katherine Tully-McManus and Jennifer Scholtes",
+      "categories": [
+        "Congress, Appropriations, Congress, Government Spending"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.456073",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "GOP border bill clears hurdle despite Democratic push to add guardrails on ICE and DHS",
+      "url": "https://www.politico.com/news/2026/07/21/gop-border-bill-clears-01007318",
+      "summary": "The stringent border security bill faces a tough road in Congress as immigration remains a sensitive issue for Republicans and Democrats alike.",
+      "date": "2026-07-22T00:40:51",
+      "author": "By Eric Bazail-Eimil",
+      "categories": [
+        "Immigration, House Judiciary Committee, Border, Immigration, Congress, Chip Roy"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:10.456073",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Harsh penalties for data brokers in New Jersey threaten campaign tech",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/24/harsh-penalties-for-data-brokers-in-new-jersey-threaten-campaign-tech-01011595",
+      "summary": "No summary available",
+      "date": "2026-07-24T20:00:17",
+      "author": "By Alfred Ng and Daniel Han",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "When AI breaks containment",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/23/when-ai-breaks-containment-01010365",
+      "summary": "No summary available",
+      "date": "2026-07-23T20:01:39",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "What happens if algorithms get the customer wrong",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/22/what-happens-if-data-driven-pricing-gets-it-wrong-01008332",
+      "summary": "No summary available",
+      "date": "2026-07-22T20:00:17",
+      "author": "By Alfred Ng",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "China’s grand AI showcase",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/21/chinas-grand-ai-showcase-01006172",
+      "summary": "No summary available",
+      "date": "2026-07-21T20:00:00",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "How AI will fragment the internet",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/20/how-ai-will-fragment-the-internet-01004989",
+      "summary": "No summary available",
+      "date": "2026-07-20T20:01:02",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "5 Questions for Stephanie T. Nguyen",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/17/5-questions-for-stephanie-t-nguyen-01002856",
+      "summary": "No summary available",
+      "date": "2026-07-17T20:00:03",
+      "author": "By Alfred Ng",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Apple’s OpenAI offensive",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/16/apples-openai-offensive-01000502",
+      "summary": "No summary available",
+      "date": "2026-07-16T20:00:03",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Why click-to-cancel is a crowdpleaser",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/15/why-click-to-cancel-is-a-crowdpleaser-00999497",
+      "summary": "No summary available",
+      "date": "2026-07-15T20:06:04",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Cities enter the AI debate",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/14/cities-enter-the-ai-debate-00997109",
+      "summary": "No summary available",
+      "date": "2026-07-14T20:04:35",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "AI is giving election conspiracies a new playbook",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/13/ai-is-giving-election-conspiracies-a-new-playbook-00994998",
+      "summary": "No summary available",
+      "date": "2026-07-13T20:00:05",
+      "author": "By Owen Dahlkamp",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "5 Questions for Eugenio Battaglia",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/10/5-questions-for-eugenio-battaglia-00992788",
+      "summary": "No summary available",
+      "date": "2026-07-10T20:08:20",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The tricky business of AI cloning",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/09/the-tricky-business-of-ai-cloning-00992279",
+      "summary": "No summary available",
+      "date": "2026-07-09T20:00:03",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Washington’s quantum reality check",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/08/washingtons-quantum-reality-check-00990604",
+      "summary": "No summary available",
+      "date": "2026-07-08T20:01:11",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Hollywood's AI habits become courtroom evidence",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/07/when-ai-becomes-standard-in-hollywood-00989129",
+      "summary": "No summary available",
+      "date": "2026-07-07T20:00:02",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A business model for quantum computing",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/06/a-business-model-for-quantum-computing-00987739",
+      "summary": "No summary available",
+      "date": "2026-07-06T20:00:05",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "5 Questions for Ed Zitron",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/02/5-questions-for-ed-zitron-00986185",
+      "summary": "No summary available",
+      "date": "2026-07-02T20:00:10",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The Big Tobacco case against AI hasn’t arrived — yet",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/07/01/the-big-tobacco-case-against-ai-hasnt-arrived-yet-00983890",
+      "summary": "No summary available",
+      "date": "2026-07-01T20:00:05",
+      "author": "By Hassan Ali Kanu",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "When cheap AI becomes a secret weapon",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/06/30/when-cheap-ai-becomes-a-secret-weapon-00982131",
+      "summary": "No summary available",
+      "date": "2026-06-30T20:00:03",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "AI’s other free speech fight",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/06/29/ais-other-free-speech-fight-00980377",
+      "summary": "No summary available",
+      "date": "2026-06-29T20:29:08",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Silicon Valley’s AI super PACs lose their fear factor",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/06/26/a-new-privacy-strategy-catches-on-in-washington-00957560",
+      "summary": "No summary available",
+      "date": "2026-06-26T20:08:37",
+      "author": "By Brendan Bordelon",
+      "categories": [
+        "Technology"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A new privacy strategy catches on in Washington",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/06/25/a-new-privacy-strategy-catches-on-in-washington-00957560",
+      "summary": "No summary available",
+      "date": "2026-06-25T20:01:09",
+      "author": "By Alfred Ng",
+      "categories": [
+        "Technology"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "A Texas Democrat wants to keep Ken Paxton’s war on Big Tech alive",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/06/24/a-texas-democrat-wants-to-keep-ken-paxtons-war-on-big-tech-alive-00973889",
+      "summary": "No summary available",
+      "date": "2026-06-24T20:00:00",
+      "author": "By Owen Dahlkamp",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "What Keir Starmer meant for tech",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/06/23/what-keir-starmer-meant-for-tech-00972587",
+      "summary": "No summary available",
+      "date": "2026-06-23T20:00:02",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Social media bans collide with free speech",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/06/22/social-media-bans-collide-with-free-speech-00970062",
+      "summary": "No summary available",
+      "date": "2026-06-22T20:00:04",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "5 Questions for Dana Suskind",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/06/18/5-questions-for-dana-suskind-00967680",
+      "summary": "No summary available",
+      "date": "2026-06-18T20:23:11",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Congress wants artists to own their aesthetic",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/06/17/congress-wants-artists-to-own-their-aesthetic-00965381",
+      "summary": "No summary available",
+      "date": "2026-06-17T20:00:04",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Why it’s hard to control software exports",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/06/16/why-its-hard-to-control-software-exports-00963900",
+      "summary": "No summary available",
+      "date": "2026-06-16T20:01:56",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.966500",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Data centers are becoming a fixture of battleground politics",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/06/15/data-centers-are-becoming-a-fixture-of-battleground-politics-00957560",
+      "summary": "No summary available",
+      "date": "2026-06-15T20:02:14",
+      "author": "By Catherine Allen",
+      "categories": [
+        "Technology"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.967498",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Five questions for James Anderson",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/06/12/five-questions-for-james-anderson-00960706",
+      "summary": "No summary available",
+      "date": "2026-06-12T20:00:00",
+      "author": "By Aaron Mak",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.967498",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The fight to prevent AI from setting your prices",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/06/11/the-fight-to-prevent-ai-from-setting-your-prices-00957560",
+      "summary": "No summary available",
+      "date": "2026-06-11T20:34:07",
+      "author": "By Alfred Ng",
+      "categories": [
+        "Technology"
+      ],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:11.967498",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "‘It's going to decimate the agency’",
+      "url": "https://www.politico.com/newsletters/weekly-agriculture/2026/07/20/its-going-to-decimate-the-agency-01004609",
+      "summary": "Agriculture Department employees expressed concern that the reorganization will degrade the quality of their agencies’ work due to employee attrition.",
+      "date": "2026-07-20T14:00:00",
+      "author": "By Rachel Shin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:13.546911",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Sprint to August",
+      "url": "https://www.politico.com/newsletters/weekly-agriculture/2026/07/13/sprint-to-august-00994335",
+      "summary": "Ag Republicans are staring down a tall legislative to-do list and growing obstacles before they leave for the August recess.",
+      "date": "2026-07-13T14:00:00",
+      "author": "By Rachel Shin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:13.546911",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "USMCA’s clouded ag future",
+      "url": "https://www.politico.com/newsletters/weekly-agriculture/2026/07/06/usmcas-clouded-ag-future-00987465",
+      "summary": "Agriculture Secretary Brooke Rollins said ag trade deficits influenced President Donald Trump's decision not to renew the United States-Mexico-Canada Agreement.",
+      "date": "2026-07-06T14:00:00",
+      "author": "By Rachel Shin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:13.546911",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "TPS decision could reshape ag labor market",
+      "url": "https://www.politico.com/newsletters/weekly-agriculture/2026/06/29/scotus-tps-decision-could-reshape-ag-labor-market-00979386",
+      "summary": "The Supreme Court ruling allowing the Trump administration to end temporary protected status for more than one million immigrants could make it harder for meatpackers and others in the food supply chain to hire enough workers.",
+      "date": "2026-06-29T14:00:00",
+      "author": "By Marcia Brown",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:13.546911",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Republicans push USMCA renewal",
+      "url": "https://www.politico.com/newsletters/weekly-agriculture/2026/06/22/republicans-push-usmca-renewal-00969410",
+      "summary": "Farm-state Republicans are urging Trump to reconsider his stance on USMCA after he suggested he would abandon the trade deal weeks ahead of its July mandatory review.",
+      "date": "2026-06-22T14:00:00",
+      "author": "By Rachel Shin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:13.546911",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The question of the closed border",
+      "url": "https://www.politico.com/newsletters/weekly-agriculture/2026/06/15/the-question-of-the-closed-border-00961841",
+      "summary": "State ag officials and Republican lawmakers are debating whether to reopen the southern border to livestock amid the New World screwworm outbreak.",
+      "date": "2026-06-15T14:00:00",
+      "author": "By Rachel Shin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:13.546911",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Parasite (2026)",
+      "url": "https://www.politico.com/newsletters/weekly-agriculture/2026/06/08/parasite-2026-00953090",
+      "summary": "The Department of Agriculture and other state and federal entities are working to contain the New World screwworm outbreak in Texas.",
+      "date": "2026-06-08T14:00:00",
+      "author": "By Rachel Shin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:13.546911",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "MAHA secured a big pesticide win. What's next?",
+      "url": "https://www.politico.com/newsletters/weekly-agriculture/2026/06/01/maha-secured-its-first-pesticide-win-whats-next-00943909",
+      "summary": "The MAHA movement is running a victory lap after a crucial farm bill vote — and warning the Senate not to test it.",
+      "date": "2026-06-01T14:00:00",
+      "author": "By Grace Yarrow and Rachel Shin",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:13.546911",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Trump’s workforce education vision gets off the ground",
+      "url": "https://www.politico.com/newsletters/weekly-education/2026/07/20/trumps-workforce-education-vision-gets-off-the-ground-01004568",
+      "summary": "Trump’s effort to bolster workforce training programs across the country fully launches today, but states have been racing for weeks to be the first to get a federal stamp of approval.",
+      "date": "2026-07-20T14:00:00",
+      "author": "By Bianca Quilantan",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:14.963371",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The merging cost of higher education",
+      "url": "https://www.politico.com/newsletters/weekly-education/2026/07/13/the-merging-cost-of-higher-education-00994277",
+      "summary": "Colleges grappling with rising costs and declining enrollments are increasingly embracing a solution more commonly seen in the private sector: mergers.",
+      "date": "2026-07-13T14:00:00",
+      "author": "By Rebecca Carballo",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:14.963371",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The growing fears about Trump’s special ed plans",
+      "url": "https://www.politico.com/newsletters/weekly-education/2026/07/06/the-growing-fears-about-trumps-plans-for-special-education-00987494",
+      "summary": "Trump’s plans for dismantling the Education Department are sparking concerns that the federal government will fall short in protecting the nation’s disabled youth from discrimination.",
+      "date": "2026-07-06T14:00:00",
+      "author": "By Mackenzie Wilkes",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:14.963371",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Can DOJ handle the Education Department's civil rights workload?",
+      "url": "https://www.politico.com/newsletters/weekly-education/2026/06/29/can-doj-handle-the-education-departments-civil-rights-workload-00979371",
+      "summary": "The Trump administration’s effort to transfer core responsibilities from the Education Department’s Office for Civil Rights to the Justice Department is prompting a key question: What will protections for students look like now?",
+      "date": "2026-06-29T14:00:00",
+      "author": "By Bianca Quilantan",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:14.963371",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Will the Education Department’s research arm survive Trump?",
+      "url": "https://www.politico.com/newsletters/weekly-education/2026/06/22/will-the-education-departments-research-arm-survive-trump-00969408",
+      "summary": "The Trump administration’s efforts to dismantle the Education Department have ensnared even its independent research arm. Now, it might take another hit from Congress.",
+      "date": "2026-06-22T14:00:00",
+      "author": "By Rebecca Carballo",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:14.963371",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Why parents want Congress to tackle America’s literacy woes",
+      "url": "https://www.politico.com/newsletters/weekly-education/2026/06/15/why-parents-want-congress-to-tackle-americas-literacy-woes-00961725",
+      "summary": "The reading skills of U.S. students haven’t improved much in the last 50-plus years. Parents and lawmakers think it’s a problem for Congress to help solve.",
+      "date": "2026-06-15T14:00:00",
+      "author": "By Mackenzie Wilkes",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:14.963371",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Why the Supreme Court won’t have the final word on trans students",
+      "url": "https://www.politico.com/newsletters/weekly-education/2026/06/08/why-the-supreme-court-wont-have-the-final-word-on-trans-students-00953073",
+      "summary": "A fierce battle over protections for transgender students is expected to rage on even after the Supreme Court decides the fate of state bans on transgender athletes competing in women's and girls' sports.",
+      "date": "2026-06-08T14:00:00",
+      "author": "By Bianca Quilantan and Delilah Brumer",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:14.963371",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The Trump push to bring more conservative views to college campuses",
+      "url": "https://www.politico.com/newsletters/weekly-education/2026/06/01/the-trump-push-to-bring-more-conservative-views-to-college-campuses-00943903",
+      "summary": "Trump administration officials believe conservative voices are being suppressed on college campuses. They're now trying to give these voices room to speak.",
+      "date": "2026-06-01T14:00:00",
+      "author": "By Rebecca Carballo",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:14.963371",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Trump’s oil woes are even worse than they look",
+      "url": "https://www.politico.com/newsletters/power-switch/2026/07/24/trumps-oil-woes-are-even-worse-than-they-look-01011544",
+      "summary": "No summary available",
+      "date": "2026-07-24T21:08:48",
+      "author": "By Adam Aton",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:16.403327",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Signed, sealed: Can Trump’s ratepayer pledge deliver?",
+      "url": "https://www.politico.com/newsletters/power-switch/2026/07/23/signed-sealed-can-trumps-ratepayer-pledge-deliver-01009331",
+      "summary": "No summary available",
+      "date": "2026-07-23T22:43:42",
+      "author": "By Jason Plautz",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:16.403327",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Preelection panic on K Street",
+      "url": "https://www.politico.com/newsletters/power-switch/2026/07/22/preelection-panic-on-k-street-01007560",
+      "summary": "No summary available",
+      "date": "2026-07-22T21:35:44",
+      "author": "By Arianna Skibell",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:16.403327",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Can Congress get behind this data center bill?",
+      "url": "https://www.politico.com/newsletters/power-switch/2026/07/21/can-congress-get-behind-this-data-center-bill-01006436",
+      "summary": "No summary available",
+      "date": "2026-07-21T22:39:16",
+      "author": "By Joel Kirkland",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:16.403327",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Solar's new GOP champion",
+      "url": "https://www.politico.com/newsletters/power-switch/2026/07/20/solars-new-gop-champion-01005485",
+      "summary": "No summary available",
+      "date": "2026-07-20T22:30:27",
+      "author": "By Shelby Webb",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:16.403327",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "Countdown clock begins for NextEra-Dominion merger",
+      "url": "https://www.politico.com/newsletters/power-switch/2026/07/17/countdown-clock-for-nextera-dominion-merger-scrutiny-01003281",
+      "summary": "No summary available",
+      "date": "2026-07-17T22:10:25",
+      "author": "By Adam Aton",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:16.403327",
+      "scrape_method": "RSS"
+    },
+    {
+      "title": "The Western grid's seam ripper",
+      "url": "https://www.politico.com/newsletters/power-switch/2026/07/16/the-western-grids-seam-ripper-01001216",
+      "summary": "No summary available",
+      "date": "2026-07-16T22:17:15",
+      "author": "By Jason Plautz",
+      "categories": [],
+      "source": "POLITICO (RSS)",
+      "scraped_at": "2026-07-27T00:30:16.403327",
+      "scrape_method": "RSS"
+    }
+  ]
+}
