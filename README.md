@@ -1,4 +1,4 @@
-# 🤖LIMEOX AI Pre-Internship — From Fresher to Advanced AI Engineer
+# 🤖LIMEOX AI Pre-Internship — Advanced AI Engineer
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
