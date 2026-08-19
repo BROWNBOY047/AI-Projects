@@ -1,0 +1,8 @@
+Metric,Value
+Number of Clusters,10.0
+Silhouette Score,0.06968985316961596
+Davies-Bouldin Index,1.4694543488309848
+Calinski-Harabasz Score,41.194444279014725
+Number of News Titles,4564.0
+TF-IDF Features,8455.0
+SVD Features,100.0
