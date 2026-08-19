@@ -211,7 +211,7 @@ news_clustering_outputs/
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/news-clustering-unsupervised.git
+git clone https://github.com/BROWNBOY047/news-clustering-unsupervised.git
 cd news-clustering-unsupervised
 ```
 
