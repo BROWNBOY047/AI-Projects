@@ -199,8 +199,8 @@ news_rl_recommender/
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/news-rl-recommender.git
-cd news-rl-recommender
+git clone [https://github.com/yourusername/news-rl-recommender](https://github.com/BROWNBOY047/LMXG-1.4-_-Muhammad_Umer/edit/main/News_Recommendation_System_using_RL).git
+cd News_Recommendation_System_using_RL
 ```
 
 ### **2. Install Dependencies**
@@ -337,13 +337,13 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 If you use this work in your research, please cite:
 
 ```bibtex
-@misc{news-rl-recommender-2024,
-  author = {Your Name},
+@misc{news-rl-recommender-2026,
+  author = {Muhammad Umer},
   title = {News Recommendation System using Reinforcement Learning},
-  year = {2024},
+  year = {2026},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/yourusername/news-rl-recommender}}
+  howpublished = {\url{[https://github.com/yourusername/news-rl-recommender](https://github.com/BROWNBOY047/LMXG-1.4-_-Muhammad_Umer/edit/main/News_Recommendation_System_using_RL)}}
 }
 ```
 
